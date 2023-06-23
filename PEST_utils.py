@@ -1448,9 +1448,9 @@ def mfmod2obs_in(model_ws,gsf_file, coord, welllist, headobsfile,hdsbinaryfile,t
     os.chdir(model_ws)
 
     if precision == "d":
-        os.system("mod2obs_dbl.exe < "+instruction_file)
+        os.system("mod2obs_dbl.exe < "+instruction_file+" > nul")
     else:
-        os.system("mod2obs_dbl.exe < "+instruction_file)
+        os.system("mod2obs_dbl.exe < "+instruction_file+" > nul")
 
     os.chdir(cwd)
 
