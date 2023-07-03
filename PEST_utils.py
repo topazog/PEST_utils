@@ -837,7 +837,7 @@ def pestprep1(model_ws,pstfile, obsfile, simfile,prefix,obsgroupname, tplfiles, 
         f.write(pstfile + '\n')
         f.write(batch_file)
 
-    os.system("pestprep1.exe < pestprep1.in")
+    os.system("pestprep1.exe < pestprep1.in > nul")
 
     os.chdir(cwd)
 
@@ -874,7 +874,7 @@ def pestprep1b(model_ws,pstfile, obsfile, simfile, prefix,obsgroupname, tplfiles
         f.write(pstfile + '\n')
         f.write(batch_file)
 
-    os.system("pestprep1.exe < pestprep1.in")
+    os.system("pestprep1.exe < pestprep1.in > nul")
 
     os.chdir(cwd)
 
@@ -905,7 +905,7 @@ def pestprep2(model_ws,or_pst, obsfile, simfile,prefix, obsgroupname, new_pst):
         f.write(or_pst + '\n')
         f.write(new_pst + '\n')
 
-    os.system("pestprep2.exe < pestprep2.in")
+    os.system("pestprep2.exe < pestprep2.in > nul")
 
     os.chdir(cwd)
 
@@ -926,7 +926,7 @@ def wtfactor(model_ws,or_pst, obsgroupname, factor, new_pst):
 
     wtfactor_ins = "wtfactor.exe"+" "+or_pst+" "+obsgroupname+" "+str(factor)+" "+new_pst
 
-    os.system(wtfactor_ins)
+    os.system(wtfactor_ins+' > nul')
 
     os.chdir(cwd)
 
@@ -1274,7 +1274,7 @@ def ppcov(model_ws,par_geostats,param_file=None):
 
         cov_filenames.append(pp_par+"_cov.dat")
 
-        os.system(exe_instruction)
+        os.system(exe_instruction+' > nul')
 
     os.chdir(cwd)
 
@@ -1303,7 +1303,7 @@ def addreg2(model_ws,or_pst, phimlim, new_pst):
 
     os.chdir(model_ws)
 
-    addreg2_instruction = "addreg2.exe"+" "+or_pst+" "+new_pst+" "+str(phimlim)+" 0.1"
+    addreg2_instruction = "addreg2.exe"+" "+or_pst+" "+new_pst+" "+str(phimlim)+" 0.1 > nul"
 
     os.system(addreg2_instruction)
 
@@ -1333,7 +1333,7 @@ def addcovmat(model_ws, or_pst, cov_files, new_pst):
 
     addcovmat_ins = "addcovmat.exe "+or_pst+" "+covmatfile+" "+new_pst
 
-    os.system(addcovmat_ins)
+    os.system(addcovmat_ins+' > nul')
 
     os.chdir(cwd)
 
@@ -1471,7 +1471,7 @@ def smpdiff_in(model_ws,obsfile,welllist,dobsfile):
 
     os.chdir(model_ws)
 
-    os.system("smpdiff.exe < "+instruction_file)
+    os.system("smpdiff.exe < "+instruction_file+' > nul')
 
     os.chdir(cwd)
 
