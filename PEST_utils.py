@@ -1034,6 +1034,7 @@ def pstpargroup(model_ws,or_pst,new_pst,upargroups=None):
 def pstpardata(model_ws, or_pst,pardata, new_pst,pargroups_opt=True):
     """
     update the parameter initial values and bounds of a pst file
+    this can be done by groups of by parameters
 
     :param or_pst: original pst file
     :param pardata: parameter group tags with initial values, lower and upper bounds
@@ -1089,13 +1090,15 @@ def pstpardata(model_ws, or_pst,pardata, new_pst,pargroups_opt=True):
                     if ipar == par:
                         match=1
                         paritems = lines[i].split()
-                        for item in range(3):
-                            f.write(paritems[item]+" "*(14-len(paritems[item])))
+                        f.write(paritems[0]+" "*(14-len(paritems[0])))
                         f.write(str(data[0]) + " " * (14 - len(str(data[0]))))
                         f.write(str(data[1])+" "*(14-len(str(data[1]))))
                         f.write(str(data[2])+" "*(14-len(str(data[2]))))
-                        for item in range(6,10):
-                            f.write(paritems[item]+" "*(14-len(paritems[item])))
+                        f.write(str(data[3]) + " " * (14 - len(str(data[3]))))
+                        f.write(str(data[4])+" "*(14-len(str(data[4]))))
+                        f.write(str(data[5])+" "*(14-len(str(data[5]))))
+                        f.write(str(data[6])+" "*(14-len(str(data[6]))))
+                        f.write(str(data[7])+" "*(14-len(str(data[7]))))
                         f.write('\n')
                 if match==0:
                     f.write(lines[i])
