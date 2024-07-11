@@ -1,0 +1,147 @@
+pcf
+* control data
+restart  estimation
+104 14 1 0 3
+     1     2 single  point  1   0   0
+ 10.0  -3.0  0.3  0.03  10  999
+ 10.0  10.0  0.001
+ 0.1  noaui
+0  0.005  4  4  0.005  4
+ 1  1  1
+* singular value decomposition
+    1
+   104   5.0e-7
+    0
+* parameter groups
+k_ppt        relative     0.01         0.0          switch       2.0          parabolic    1e-05        0.5          smaller
+* parameter data
+k_ppt1        log           factor    1.184900      0.01          100.0         k_ppt         1.0           0             1
+k_ppt2        log           factor    1.307620      0.01          100.0         k_ppt         1.0           0             1
+k_ppt3        log           factor    1.688010      0.01          100.0         k_ppt         1.0           0             1
+k_ppt4        log           factor   0.9612760      0.01          100.0         k_ppt         1.0           0             1
+k_ppt5        log           factor    1.530110      0.01          100.0         k_ppt         1.0           0             1
+k_ppt6        log           factor   0.3305310      0.01          100.0         k_ppt         1.0           0             1
+k_ppt7        log           factor   0.2158060      0.01          100.0         k_ppt         1.0           0             1
+k_ppt8        log           factor   0.6279410      0.01          100.0         k_ppt         1.0           0             1
+k_ppt9        log           factor   0.9377430      0.01          100.0         k_ppt         1.0           0             1
+k_ppt10       log           factor    1.164720      0.01          100.0         k_ppt         1.0           0             1
+k_ppt11       log           factor    1.239950      0.01          100.0         k_ppt         1.0           0             1
+k_ppt12       log           factor    1.313030      0.01          100.0         k_ppt         1.0           0             1
+k_ppt13       log           factor    1.873940      0.01          100.0         k_ppt         1.0           0             1
+k_ppt14       log           factor   0.8525730      0.01          100.0         k_ppt         1.0           0             1
+k_ppt15       log           factor   0.3937360      0.01          100.0         k_ppt         1.0           0             1
+k_ppt16       log           factor   0.4280380      0.01          100.0         k_ppt         1.0           0             1
+k_ppt17       log           factor    1.326260      0.01          100.0         k_ppt         1.0           0             1
+k_ppt18       log           factor   0.9480480      0.01          100.0         k_ppt         1.0           0             1
+k_ppt19       log           factor    1.471780      0.01          100.0         k_ppt         1.0           0             1
+k_ppt20       log           factor   0.8854050      0.01          100.0         k_ppt         1.0           0             1
+k_ppt21       log           factor    1.991800      0.01          100.0         k_ppt         1.0           0             1
+k_ppt22       log           factor    1.398230      0.01          100.0         k_ppt         1.0           0             1
+k_ppt23       log           factor   0.7716720      0.01          100.0         k_ppt         1.0           0             1
+k_ppt24       log           factor   0.3751330      0.01          100.0         k_ppt         1.0           0             1
+k_ppt25       log           factor   0.4404270      0.01          100.0         k_ppt         1.0           0             1
+k_ppt26       log           factor   0.5474860      0.01          100.0         k_ppt         1.0           0             1
+k_ppt27       log           factor    1.706440      0.01          100.0         k_ppt         1.0           0             1
+k_ppt28       log           factor   0.8421180      0.01          100.0         k_ppt         1.0           0             1
+k_ppt29       log           factor    1.209350      0.01          100.0         k_ppt         1.0           0             1
+k_ppt30       log           factor   0.8071660      0.01          100.0         k_ppt         1.0           0             1
+k_ppt31       log           factor   0.7739620      0.01          100.0         k_ppt         1.0           0             1
+k_ppt32       log           factor   0.3041110      0.01          100.0         k_ppt         1.0           0             1
+k_ppt33       log           factor   0.3402070      0.01          100.0         k_ppt         1.0           0             1
+k_ppt34       log           factor   0.8109280      0.01          100.0         k_ppt         1.0           0             1
+k_ppt35       log           factor    2.302640      0.01          100.0         k_ppt         1.0           0             1
+k_ppt36       log           factor    1.259150      0.01          100.0         k_ppt         1.0           0             1
+k_ppt37       log           factor    1.183900      0.01          100.0         k_ppt         1.0           0             1
+k_ppt38       log           factor    2.527040      0.01          100.0         k_ppt         1.0           0             1
+k_ppt39       log           factor    1.128590      0.01          100.0         k_ppt         1.0           0             1
+k_ppt40       log           factor   0.7751610      0.01          100.0         k_ppt         1.0           0             1
+k_ppt41       log           factor   0.9066400      0.01          100.0         k_ppt         1.0           0             1
+k_ppt42       log           factor    2.716370      0.01          100.0         k_ppt         1.0           0             1
+k_ppt43       log           factor    2.457250      0.01          100.0         k_ppt         1.0           0             1
+k_ppt44       log           factor    2.999370      0.01          100.0         k_ppt         1.0           0             1
+k_ppt45       log           factor    1.444500      0.01          100.0         k_ppt         1.0           0             1
+k_ppt46       log           factor    2.473830      0.01          100.0         k_ppt         1.0           0             1
+k_ppt47       log           factor    1.306540      0.01          100.0         k_ppt         1.0           0             1
+k_ppt48       log           factor   0.6913530      0.01          100.0         k_ppt         1.0           0             1
+k_ppt49       log           factor   0.6548250      0.01          100.0         k_ppt         1.0           0             1
+k_ppt50       log           factor    2.039550      0.01          100.0         k_ppt         1.0           0             1
+k_ppt51       log           factor    4.240360      0.01          100.0         k_ppt         1.0           0             1
+k_ppt52       log           factor    3.680750      0.01          100.0         k_ppt         1.0           0             1
+k_ppt53       log           factor    1.757750      0.01          100.0         k_ppt         1.0           0             1
+k_ppt54       log           factor    1.411720      0.01          100.0         k_ppt         1.0           0             1
+k_ppt55       log           factor    1.155650      0.01          100.0         k_ppt         1.0           0             1
+k_ppt56       log           factor   0.9614490      0.01          100.0         k_ppt         1.0           0             1
+k_ppt57       log           factor   0.5448600      0.01          100.0         k_ppt         1.0           0             1
+k_ppt58       log           factor    1.276700      0.01          100.0         k_ppt         1.0           0             1
+k_ppt59       log           factor    3.834450      0.01          100.0         k_ppt         1.0           0             1
+k_ppt60       log           factor    2.786150      0.01          100.0         k_ppt         1.0           0             1
+k_ppt61       log           factor    4.498710      0.01          100.0         k_ppt         1.0           0             1
+k_ppt62       log           factor    2.387640      0.01          100.0         k_ppt         1.0           0             1
+k_ppt63       log           factor   0.6509090      0.01          100.0         k_ppt         1.0           0             1
+k_ppt64       log           factor    2.028790      0.01          100.0         k_ppt         1.0           0             1
+k_ppt65       log           factor   0.5440920      0.01          100.0         k_ppt         1.0           0             1
+k_ppt66       log           factor   0.7230280      0.01          100.0         k_ppt         1.0           0             1
+k_ppt67       log           factor    1.965700      0.01          100.0         k_ppt         1.0           0             1
+k_ppt68       log           factor    3.849270      0.01          100.0         k_ppt         1.0           0             1
+k_ppt69       log           factor    2.976770      0.01          100.0         k_ppt         1.0           0             1
+k_ppt70       log           factor    1.870400      0.01          100.0         k_ppt         1.0           0             1
+k_ppt71       log           factor   0.9314410      0.01          100.0         k_ppt         1.0           0             1
+k_ppt72       log           factor    1.686770      0.01          100.0         k_ppt         1.0           0             1
+k_ppt73       log           factor   0.9217850      0.01          100.0         k_ppt         1.0           0             1
+k_ppt74       log           factor   0.8891630      0.01          100.0         k_ppt         1.0           0             1
+k_ppt75       log           factor    1.796890      0.01          100.0         k_ppt         1.0           0             1
+k_ppt76       log           factor    2.415870      0.01          100.0         k_ppt         1.0           0             1
+k_ppt77       log           factor    1.247240      0.01          100.0         k_ppt         1.0           0             1
+k_ppt78       log           factor    2.260920      0.01          100.0         k_ppt         1.0           0             1
+k_ppt79       log           factor    1.432020      0.01          100.0         k_ppt         1.0           0             1
+k_ppt80       log           factor    1.158410      0.01          100.0         k_ppt         1.0           0             1
+k_ppt81       log           factor    2.001200      0.01          100.0         k_ppt         1.0           0             1
+k_ppt82       log           factor   0.9437010      0.01          100.0         k_ppt         1.0           0             1
+k_ppt83       log           factor    1.270410      0.01          100.0         k_ppt         1.0           0             1
+k_ppt84       log           factor    1.061370      0.01          100.0         k_ppt         1.0           0             1
+k_ppt85       log           factor    1.234020      0.01          100.0         k_ppt         1.0           0             1
+k_ppt86       log           factor    1.383390      0.01          100.0         k_ppt         1.0           0             1
+k_ppt87       log           factor   0.5809490      0.01          100.0         k_ppt         1.0           0             1
+k_ppt88       log           factor   0.5663640      0.01          100.0         k_ppt         1.0           0             1
+k_ppt89       log           factor    2.507210      0.01          100.0         k_ppt         1.0           0             1
+k_ppt90       log           factor    1.230290      0.01          100.0         k_ppt         1.0           0             1
+k_ppt91       log           factor    1.353200      0.01          100.0         k_ppt         1.0           0             1
+k_ppt92       log           factor   0.7534020      0.01          100.0         k_ppt         1.0           0             1
+k_ppt93       log           factor   0.6107020      0.01          100.0         k_ppt         1.0           0             1
+k_ppt94       log           factor   0.2912320      0.01          100.0         k_ppt         1.0           0             1
+k_ppt95       log           factor   0.3204930      0.01          100.0         k_ppt         1.0           0             1
+k_ppt96       log           factor   0.6972840      0.01          100.0         k_ppt         1.0           0             1
+k_ppt97       log           factor   0.5643280      0.01          100.0         k_ppt         1.0           0             1
+k_ppt98       log           factor   0.7906250      0.01          100.0         k_ppt         1.0           0             1
+k_ppt99       log           factor    1.111480      0.01          100.0         k_ppt         1.0           0             1
+k_ppt100      log           factor   0.8436760      0.01          100.0         k_ppt         1.0           0             1
+k_ppt101      log           factor   0.7317060      0.01          100.0         k_ppt         1.0           0             1
+k_ppt102      log           factor   0.2170940      0.01          100.0         k_ppt         1.0           0             1
+k_ppt103      log           factor   0.3223140      0.01          100.0         k_ppt         1.0           0             1
+k_ppt104      log           factor   0.5698460      0.01          100.0         k_ppt         1.0           0             1
+* observation groups
+ heads
+time
+distance
+* observation data
+_well01_1        5.747240         10.0             heads
+_well02_1        5.696160         10.0             heads
+_well03_1        5.491990         10.0             heads
+_well04_1        4.091900         10.0             heads
+_well05_1        3.920140         10.0             heads
+_well06_1        4.059910         10.0             heads
+_well07_1        2.593690         10.0             heads
+_well08_1        3.259790         10.0             heads
+_well09_1        2.973680         10.0             heads
+_well10_1        1.124170         10.0             heads
+_well11_1        1.203610         10.0             heads
+_well12_1        1.192560         10.0             heads
+part_time        0.000000         0             time
+part_east        0.000000         0.0              distance
+* model command line
+ model.bat
+* model input/output
+ hk.tpl  hk.pts
+ model.ins  model.smp
+endpoint.ins rect.endpoint7
+* prior information

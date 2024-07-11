@@ -1,0 +1,9 @@
+ OBJECTIVE FUNCTION COMPONENTS AT END OF ITERATION
+ (Regularisation groups are excluded as they are weight-factor dependent.)
+ 
+ iteration    measurement         regularisation      heads          time           distance       
+   0           238.897             0.00000             238.897        0.00000        0.00000      
+   1           34.5588             1.51843             34.5588        0.00000        0.00000      
+   2           19.3087             2.20063             19.3087        0.00000        0.00000      
+   3           12.5016             2.39219             12.5016        0.00000        0.00000      
+   4           12.2295             2.42561             12.2295        0.00000        0.00000      

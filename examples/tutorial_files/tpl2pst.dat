@@ -1,0 +1,9 @@
+start template_file
+  template_file     = hk.tpl
+  model_input_file  = hk.pts
+  transform         = log
+  value             = 1.0
+  lower_bound       = 1e-2
+  upper_bound       = 1e2
+  pargroup          = k
+end template_file

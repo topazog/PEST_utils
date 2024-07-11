@@ -1,0 +1,1039 @@
+
+PANTHER master listening on socket:0.0.0.0:4004 (IPv4)
+running model 40 times
+06/26/24 15:42:05->waiting for agents to appear
+
+06/26/24 15:42:07->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50723
+06/26/24 15:42:07->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 socket:1ZGH2T3.isd.ad.flinders.edu.au:50723 number of agents:1
+06/26/24 15:42:08->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50724
+06/26/24 15:42:08->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 socket:1ZGH2T3.isd.ad.flinders.edu.au:50724 number of agents:2
+06/26/24 15:42:08->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 socket:1ZGH2T3.isd.ad.flinders.edu.au:50723
+06/26/24 15:42:08->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:2  da_cycle:-9999   realization:0 concurrent:1)
+06/26/24 15:42:09->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 socket:1ZGH2T3.isd.ad.flinders.edu.au:50724
+06/26/24 15:42:09->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:2  da_cycle:-9999   realization:1 concurrent:1)
+06/26/24 15:42:09->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50725
+06/26/24 15:42:09->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 socket:1ZGH2T3.isd.ad.flinders.edu.au:50725 number of agents:3
+06/26/24 15:42:10->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50727
+06/26/24 15:42:10->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 socket:1ZGH2T3.isd.ad.flinders.edu.au:50727 number of agents:4
+06/26/24 15:42:10->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 socket:1ZGH2T3.isd.ad.flinders.edu.au:50725
+06/26/24 15:42:10->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:2  da_cycle:-9999   realization:2 concurrent:1)
+06/26/24 15:42:10->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 socket:1ZGH2T3.isd.ad.flinders.edu.au:50727
+06/26/24 15:42:10->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:2  da_cycle:-9999   realization:3 concurrent:1)
+06/26/24 15:42:11->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50728
+06/26/24 15:42:11->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 socket:1ZGH2T3.isd.ad.flinders.edu.au:50728 number of agents:5
+06/26/24 15:42:11-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0385333  avg_run_time:0.0385333 group_id:2  da_cycle:-9999   realization:0  worker_time:0.03675 concurrent:1
+06/26/24 15:42:11->run 0 processed
+06/26/24 15:42:11->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:2  da_cycle:-9999   realization:4 concurrent:1)
+06/26/24 15:42:11-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0386833  avg_run_time:0.0386083 group_id:2  da_cycle:-9999   realization:1  worker_time:0.0367667 concurrent:1
+06/26/24 15:42:11->run 1 processed
+06/26/24 15:42:11->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:2  da_cycle:-9999   realization:5 concurrent:1)
+06/26/24 15:42:11->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 socket:1ZGH2T3.isd.ad.flinders.edu.au:50728
+06/26/24 15:42:11->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:2  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:42:12->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50730
+06/26/24 15:42:12->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 socket:1ZGH2T3.isd.ad.flinders.edu.au:50730 number of agents:6
+06/26/24 15:42:13->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50731
+06/26/24 15:42:13->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 socket:1ZGH2T3.isd.ad.flinders.edu.au:50731 number of agents:7
+06/26/24 15:42:13-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0441667  avg_run_time:0.0404611 group_id:2  da_cycle:-9999   realization:2  worker_time:0.0424333 concurrent:1
+06/26/24 15:42:13->run 2 processed
+06/26/24 15:42:13->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:2  da_cycle:-9999   realization:7 concurrent:1)
+06/26/24 15:42:13->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 socket:1ZGH2T3.isd.ad.flinders.edu.au:50730
+06/26/24 15:42:13->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:2  da_cycle:-9999   realization:8 concurrent:1)
+06/26/24 15:42:13-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.03865  avg_run_time:0.0405 group_id:2  da_cycle:-9999   realization:4  worker_time:0.03695 concurrent:1
+06/26/24 15:42:13->run 4 processed
+06/26/24 15:42:13->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:2  da_cycle:-9999   realization:9 concurrent:1)
+06/26/24 15:42:13-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0440833  avg_run_time:0.0413958 group_id:2  da_cycle:-9999   realization:3  worker_time:0.0421667 concurrent:1
+06/26/24 15:42:13->run 3 processed
+06/26/24 15:42:13->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:2  da_cycle:-9999   realization:10 concurrent:1)
+06/26/24 15:42:13->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 socket:1ZGH2T3.isd.ad.flinders.edu.au:50731
+06/26/24 15:42:13->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:2  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:13-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0385833  avg_run_time:0.0413708 group_id:2  da_cycle:-9999   realization:5  worker_time:0.0366667 concurrent:1
+06/26/24 15:42:13->run 5 processed
+06/26/24 15:42:13->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:2  da_cycle:-9999   realization:12 concurrent:1)
+06/26/24 15:42:13->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50732
+06/26/24 15:42:13->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 socket:1ZGH2T3.isd.ad.flinders.edu.au:50732 number of agents:8
+06/26/24 15:42:14-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0384667  avg_run_time:0.04079 group_id:2  da_cycle:-9999   realization:6  worker_time:0.0366833 concurrent:1
+06/26/24 15:42:14->run 6 processed
+06/26/24 15:42:14->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:2  da_cycle:-9999   realization:13 concurrent:1)
+06/26/24 15:42:14->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 socket:1ZGH2T3.isd.ad.flinders.edu.au:50732
+06/26/24 15:42:14->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:2  da_cycle:-9999   realization:14 concurrent:1)
+06/26/24 15:42:15->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50733
+06/26/24 15:42:15->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 socket:1ZGH2T3.isd.ad.flinders.edu.au:50733 number of agents:9
+06/26/24 15:42:15-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0432333  avg_run_time:0.0406033 group_id:2  da_cycle:-9999   realization:7  worker_time:0.0404667 concurrent:1
+06/26/24 15:42:15->run 7 processed
+06/26/24 15:42:15->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:2  da_cycle:-9999   realization:15 concurrent:1)
+06/26/24 15:42:15-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0422167  avg_run_time:0.0408722 group_id:2  da_cycle:-9999   realization:8  worker_time:0.0405 concurrent:1
+06/26/24 15:42:15->run 8 processed
+06/26/24 15:42:15->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:2  da_cycle:-9999   realization:16 concurrent:1)
+06/26/24 15:42:15->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 socket:1ZGH2T3.isd.ad.flinders.edu.au:50733
+06/26/24 15:42:15->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:2  da_cycle:-9999   realization:17 concurrent:1)
+06/26/24 15:42:16->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50735
+06/26/24 15:42:16->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 socket:1ZGH2T3.isd.ad.flinders.edu.au:50735 number of agents:10
+06/26/24 15:42:16-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0414  avg_run_time:0.0413306 group_id:2  da_cycle:-9999   realization:9  worker_time:0.0423167 concurrent:1
+06/26/24 15:42:16->run 9 processed
+06/26/24 15:42:16->Sending run_id:18 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:2  da_cycle:-9999   realization:18 concurrent:1)
+06/26/24 15:42:16-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0441167  avg_run_time:0.0413361 group_id:2  da_cycle:-9999   realization:10  worker_time:0.0423167 concurrent:1
+06/26/24 15:42:16->run 10 processed
+06/26/24 15:42:16->Sending run_id:19 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:2  da_cycle:-9999   realization:19 concurrent:1)
+06/26/24 15:42:16-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0413833  avg_run_time:0.0418028 group_id:2  da_cycle:-9999   realization:12  worker_time:0.0423 concurrent:1
+06/26/24 15:42:16->run 12 processed
+06/26/24 15:42:16->Sending run_id:20 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:2  da_cycle:-9999   realization:20 concurrent:1)
+06/26/24 15:42:16-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0479333  avg_run_time:0.0426786 group_id:2  da_cycle:-9999   realization:11  worker_time:0.0459833 concurrent:1
+06/26/24 15:42:16->run 11 processed
+06/26/24 15:42:16->Sending run_id:21 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:2  da_cycle:-9999   realization:21 concurrent:1)
+06/26/24 15:42:16-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0413  avg_run_time:0.0430833 group_id:2  da_cycle:-9999   realization:13  worker_time:0.0422833 concurrent:1
+06/26/24 15:42:16->run 13 processed
+06/26/24 15:42:16->Sending run_id:22 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:2  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:42:16->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 socket:1ZGH2T3.isd.ad.flinders.edu.au:50735
+06/26/24 15:42:16->Sending run_id:23 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:2  da_cycle:-9999   realization:23 concurrent:1)
+06/26/24 15:42:17-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0387  avg_run_time:0.0425354 group_id:2  da_cycle:-9999   realization:14  worker_time:0.0368167 concurrent:1
+06/26/24 15:42:17->run 14 processed
+06/26/24 15:42:17->Sending run_id:24 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:2  da_cycle:-9999   realization:24 concurrent:1)
+06/26/24 15:42:17->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50736
+06/26/24 15:42:17->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 socket:1ZGH2T3.isd.ad.flinders.edu.au:50736 number of agents:11
+06/26/24 15:42:18-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.04285  avg_run_time:0.0424875 group_id:2  da_cycle:-9999   realization:15  worker_time:0.0406 concurrent:1
+06/26/24 15:42:18->run 15 processed
+06/26/24 15:42:18->Sending run_id:25 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:2  da_cycle:-9999   realization:25 concurrent:1)
+06/26/24 15:42:18->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50737
+06/26/24 15:42:18->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 socket:1ZGH2T3.isd.ad.flinders.edu.au:50737 number of agents:12
+06/26/24 15:42:18-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0432333  avg_run_time:0.0426146 group_id:2  da_cycle:-9999   realization:16  worker_time:0.0423833 concurrent:1
+06/26/24 15:42:18->run 16 processed
+06/26/24 15:42:18->Sending run_id:26 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:2  da_cycle:-9999   realization:26 concurrent:1)
+06/26/24 15:42:18->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 socket:1ZGH2T3.isd.ad.flinders.edu.au:50736
+06/26/24 15:42:18->Sending run_id:27 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:2  da_cycle:-9999   realization:27 concurrent:1)
+06/26/24 15:42:18-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0441  avg_run_time:0.0427796 group_id:2  da_cycle:-9999   realization:17  worker_time:0.0423833 concurrent:1
+06/26/24 15:42:18->run 17 processed
+06/26/24 15:42:18->Sending run_id:28 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:2  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:18-> run_id:18 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0428  avg_run_time:0.0429352 group_id:2  da_cycle:-9999   realization:18  worker_time:0.0423667 concurrent:1
+06/26/24 15:42:18->run 18 processed
+06/26/24 15:42:18->Sending run_id:29 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:2  da_cycle:-9999   realization:29 concurrent:1)
+06/26/24 15:42:18-> run_id:19 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0441667  avg_run_time:0.0429407 group_id:2  da_cycle:-9999   realization:19  worker_time:0.04235 concurrent:1
+06/26/24 15:42:18->run 19 processed
+06/26/24 15:42:18->Sending run_id:30 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:2  da_cycle:-9999   realization:30 concurrent:1)
+06/26/24 15:42:19->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 socket:1ZGH2T3.isd.ad.flinders.edu.au:50737
+06/26/24 15:42:19->Sending run_id:31 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:2  da_cycle:-9999   realization:31 concurrent:1)
+06/26/24 15:42:19-> run_id:20 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0428  avg_run_time:0.0430981 group_id:2  da_cycle:-9999   realization:20  worker_time:0.0423667 concurrent:1
+06/26/24 15:42:19->run 20 processed
+06/26/24 15:42:19->Sending run_id:32 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:2  da_cycle:-9999   realization:32 concurrent:1)
+06/26/24 15:42:19-> run_id:21 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0460833  avg_run_time:0.0428926 group_id:2  da_cycle:-9999   realization:21  worker_time:0.0423833 concurrent:1
+06/26/24 15:42:19->run 21 processed
+06/26/24 15:42:19->Sending run_id:33 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:2  da_cycle:-9999   realization:33 concurrent:1)
+06/26/24 15:42:19-> run_id:22 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0427333  avg_run_time:0.0430519 group_id:2  da_cycle:-9999   realization:22  worker_time:0.0423333 concurrent:1
+06/26/24 15:42:19->run 22 processed
+06/26/24 15:42:19->Sending run_id:34 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:2  da_cycle:-9999   realization:34 concurrent:1)
+06/26/24 15:42:19-> run_id:23 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0440833  avg_run_time:0.043155 group_id:2  da_cycle:-9999   realization:23  worker_time:0.04235 concurrent:1
+06/26/24 15:42:19->run 23 processed
+06/26/24 15:42:19->Sending run_id:35 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:2  da_cycle:-9999   realization:35 concurrent:1)
+06/26/24 15:42:19->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50738
+06/26/24 15:42:19->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 socket:1ZGH2T3.isd.ad.flinders.edu.au:50738 number of agents:13
+06/26/24 15:42:19-> run_id:24 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0414333  avg_run_time:0.0434283 group_id:2  da_cycle:-9999   realization:24  worker_time:0.04235 concurrent:1
+06/26/24 15:42:19->run 24 processed
+06/26/24 15:42:19->Sending run_id:36 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:2  da_cycle:-9999   realization:36 concurrent:1)
+06/26/24 15:42:20->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 socket:1ZGH2T3.isd.ad.flinders.edu.au:50738
+06/26/24 15:42:20->Sending run_id:37 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:2  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:20->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50739
+06/26/24 15:42:20->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 socket:1ZGH2T3.isd.ad.flinders.edu.au:50739 number of agents:14
+06/26/24 15:42:20-> run_id:25 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0434333  avg_run_time:0.0434867 group_id:2  da_cycle:-9999   realization:25  worker_time:0.0421667 concurrent:1
+06/26/24 15:42:20->run 25 processed
+06/26/24 15:42:20->Sending run_id:38 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:2  da_cycle:-9999   realization:38 concurrent:1)
+06/26/24 15:42:21-> run_id:26 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0436333  avg_run_time:0.0435267 group_id:2  da_cycle:-9999   realization:26  worker_time:0.0422 concurrent:1
+06/26/24 15:42:21->run 26 processed
+06/26/24 15:42:21->Sending run_id:39 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:2  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:21-> run_id:28 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0440667  avg_run_time:0.0435233 group_id:2  da_cycle:-9999   realization:28  worker_time:0.0422333 concurrent:1
+06/26/24 15:42:21->run 28 processed
+06/26/24 15:42:21->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 socket:1ZGH2T3.isd.ad.flinders.edu.au:50739
+06/26/24 15:42:21-> run_id:29 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0434167  avg_run_time:0.043585 group_id:2  da_cycle:-9999   realization:29  worker_time:0.0421833 concurrent:1
+06/26/24 15:42:21->run 29 processed
+06/26/24 15:42:21-> run_id:27 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0495667  avg_run_time:0.0441288 group_id:2  da_cycle:-9999   realization:27  worker_time:0.0477167 concurrent:1
+06/26/24 15:42:21->run 27 processed
+06/26/24 15:42:21->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50740
+06/26/24 15:42:21->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 socket:1ZGH2T3.isd.ad.flinders.edu.au:50740 number of agents:15
+06/26/24 15:42:21-> run_id:32 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0434333  avg_run_time:0.0441864 group_id:2  da_cycle:-9999   realization:32  worker_time:0.0422333 concurrent:1
+06/26/24 15:42:21->run 32 processed
+06/26/24 15:42:21-> run_id:33 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0450667  avg_run_time:0.0440939 group_id:2  da_cycle:-9999   realization:33  worker_time:0.04225 concurrent:1
+06/26/24 15:42:21->run 33 processed
+06/26/24 15:42:21-> run_id:30 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0468667  avg_run_time:0.0443394 group_id:2  da_cycle:-9999   realization:30  worker_time:0.0477 concurrent:1
+06/26/24 15:42:21->run 30 processed
+06/26/24 15:42:22-> run_id:31 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0495333  avg_run_time:0.0447722 group_id:2  da_cycle:-9999   realization:31  worker_time:0.0476833 concurrent:1
+06/26/24 15:42:22->run 31 processed
+06/26/24 15:42:22-> run_id:34 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0435333  avg_run_time:0.0448389 group_id:2  da_cycle:-9999   realization:34  worker_time:0.0424667 concurrent:1
+06/26/24 15:42:22->run 34 processed
+06/26/24 15:42:22-> run_id:35 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0440833  avg_run_time:0.0448389 group_id:2  da_cycle:-9999   realization:35  worker_time:0.0422333 concurrent:1
+06/26/24 15:42:22->run 35 processed
+06/26/24 15:42:22-> run_id:36 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0427833  avg_run_time:0.0449514 group_id:2  da_cycle:-9999   realization:36  worker_time:0.0423 concurrent:1
+06/26/24 15:42:22->run 36 processed
+06/26/24 15:42:22->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 socket:1ZGH2T3.isd.ad.flinders.edu.au:50740
+06/26/24 15:42:22->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50741
+06/26/24 15:42:22->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 socket:1ZGH2T3.isd.ad.flinders.edu.au:50741 number of agents:16
+06/26/24 15:42:22-> run_id:37 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0441833  avg_run_time:0.0448923 group_id:2  da_cycle:-9999   realization:37  worker_time:0.0423333 concurrent:1
+06/26/24 15:42:22->run 37 processed
+06/26/24 15:42:23-> run_id:38 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0410333  avg_run_time:0.0447077 group_id:2  da_cycle:-9999   realization:38  worker_time:0.0368 concurrent:1
+06/26/24 15:42:23->run 38 processed
+06/26/24 15:42:23-> run_id:39 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0411667  avg_run_time:0.0445179 group_id:2  da_cycle:-9999   realization:base  worker_time:0.0368833 concurrent:1
+06/26/24 15:42:23->run 39 processed
+06/26/24 15:42:25->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50742
+06/26/24 15:42:25->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 socket:1ZGH2T3.isd.ad.flinders.edu.au:50741
+06/26/24 15:42:25->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50746
+
+---------------------
+   40 runs complete :  0 runs failed
+   0.0445 avg run time (min) : 0.329 run mgr time (min)
+   18 agents connected
+
+
+
+06/26/24 15:42:25->Started idle ping thread.
+06/26/24 15:42:25->Panther idle ping thread resumed.
+06/26/24 15:42:25->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 socket:1ZGH2T3.isd.ad.flinders.edu.au:50746 number of agents:18
+06/26/24 15:42:25->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 socket:1ZGH2T3.isd.ad.flinders.edu.au:50742 number of agents:18
+06/26/24 15:42:25->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50748
+06/26/24 15:42:26->Panther idle ping thread paused prior to scheduling runs.
+running model 18 times
+06/26/24 15:42:26->    19 agents ready
+
+06/26/24 15:42:26->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:26->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:26->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:26->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:26->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:26->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:26->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:26->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:26->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 socket:1ZGH2T3.isd.ad.flinders.edu.au:50746
+06/26/24 15:42:26->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 socket:1ZGH2T3.isd.ad.flinders.edu.au:50748 number of agents:19
+06/26/24 15:42:26->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:3  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:26->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 socket:1ZGH2T3.isd.ad.flinders.edu.au:50742
+06/26/24 15:42:26->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:3  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:27->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 socket:1ZGH2T3.isd.ad.flinders.edu.au:50748
+06/26/24 15:42:27->new connection from:1ZGH2T3.isd.ad.flinders.edu.au:50751
+06/26/24 15:42:27->initializing new agent connection from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 socket:1ZGH2T3.isd.ad.flinders.edu.au:50751 number of agents:20
+06/26/24 15:42:29->new agent ready:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 socket:1ZGH2T3.isd.ad.flinders.edu.au:50751
+06/26/24 15:42:29-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0586667  avg_run_time:0.0586667 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0586333 concurrent:1
+06/26/24 15:42:29->run 8 processed
+06/26/24 15:42:29-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0587333  avg_run_time:0.0587 group_id:3  da_cycle:-9999   realization:base  worker_time:0.05865 concurrent:1
+06/26/24 15:42:29->run 7 processed
+06/26/24 15:42:29-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0587333  avg_run_time:0.0587111 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0586667 concurrent:1
+06/26/24 15:42:29->run 6 processed
+06/26/24 15:42:29-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0586833  avg_run_time:0.0587042 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0585667 concurrent:1
+06/26/24 15:42:29->run 12 processed
+06/26/24 15:42:29-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0587  avg_run_time:0.0587033 group_id:3  da_cycle:-9999   realization:base  worker_time:0.0586333 concurrent:1
+06/26/24 15:42:29->run 9 processed
+06/26/24 15:42:29-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0588833  avg_run_time:0.0587333 group_id:3  da_cycle:-9999   realization:base  worker_time:0.0588 concurrent:1
+06/26/24 15:42:29->run 13 processed
+06/26/24 15:42:29-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0588833  avg_run_time:0.0587548 group_id:3  da_cycle:-9999   realization:base  worker_time:0.0587667 concurrent:1
+06/26/24 15:42:29->run 15 processed
+06/26/24 15:42:29-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0605  avg_run_time:0.0589729 group_id:3  da_cycle:-9999   realization:base  worker_time:0.0604667 concurrent:1
+06/26/24 15:42:29->run 1 processed
+06/26/24 15:42:29-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0605167  avg_run_time:0.0591444 group_id:3  da_cycle:-9999   realization:base  worker_time:0.0604333 concurrent:1
+06/26/24 15:42:29->run 3 processed
+06/26/24 15:42:29-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0605333  avg_run_time:0.0592833 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0604333 concurrent:1
+06/26/24 15:42:29->run 2 processed
+06/26/24 15:42:29-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0605333  avg_run_time:0.059397 group_id:3  da_cycle:-9999   realization:base  worker_time:0.06045 concurrent:1
+06/26/24 15:42:29->run 5 processed
+06/26/24 15:42:29-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0604833  avg_run_time:0.0594875 group_id:3  da_cycle:-9999   realization:base  worker_time:0.0604 concurrent:1
+06/26/24 15:42:29->run 11 processed
+06/26/24 15:42:29-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0623167  avg_run_time:0.0597051 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0622667 concurrent:1
+06/26/24 15:42:29->run 0 processed
+06/26/24 15:42:29-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0623  avg_run_time:0.0598905 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0622667 concurrent:1
+06/26/24 15:42:29->run 4 processed
+06/26/24 15:42:29-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.06225  avg_run_time:0.0600478 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0622167 concurrent:1
+06/26/24 15:42:29->run 10 processed
+06/26/24 15:42:29-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.06405  avg_run_time:0.0602979 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0639833 concurrent:1
+06/26/24 15:42:29->run 14 processed
+06/26/24 15:42:29-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0567333  avg_run_time:0.0600882 group_id:3  da_cycle:-9999   realization:base  worker_time:0.0550333 concurrent:1
+06/26/24 15:42:29->run 17 processed
+06/26/24 15:42:29-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.06535  avg_run_time:0.0603806 group_id:3  da_cycle:-9999   realization:28  worker_time:0.0641167 concurrent:1
+06/26/24 15:42:29->run 16 processed
+
+---------------------
+   18 runs complete :  0 runs failed
+   0.0604 avg run time (min) : 0.116 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:42:32->Panther idle ping thread resumed.
+06/26/24 15:42:32->Panther idle ping thread paused prior to scheduling runs.
+running model 38 times
+06/26/24 15:42:32->    20 agents ready
+
+06/26/24 15:42:32->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:4  da_cycle:-9999   realization:0 concurrent:1)
+06/26/24 15:42:32->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:4  da_cycle:-9999   realization:1 concurrent:1)
+06/26/24 15:42:32->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:4  da_cycle:-9999   realization:2 concurrent:1)
+06/26/24 15:42:32->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:4  da_cycle:-9999   realization:3 concurrent:1)
+06/26/24 15:42:32->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:4  da_cycle:-9999   realization:4 concurrent:1)
+06/26/24 15:42:32->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:4  da_cycle:-9999   realization:5 concurrent:1)
+06/26/24 15:42:32->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:4  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:42:32->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:4  da_cycle:-9999   realization:7 concurrent:1)
+06/26/24 15:42:32->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:4  da_cycle:-9999   realization:8 concurrent:1)
+06/26/24 15:42:32->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:4  da_cycle:-9999   realization:9 concurrent:1)
+06/26/24 15:42:32->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:4  da_cycle:-9999   realization:10 concurrent:1)
+06/26/24 15:42:32->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:4  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:32->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:4  da_cycle:-9999   realization:12 concurrent:1)
+06/26/24 15:42:32->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:4  da_cycle:-9999   realization:13 concurrent:1)
+06/26/24 15:42:32->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:4  da_cycle:-9999   realization:14 concurrent:1)
+06/26/24 15:42:32->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:4  da_cycle:-9999   realization:15 concurrent:1)
+06/26/24 15:42:32->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:4  da_cycle:-9999   realization:16 concurrent:1)
+06/26/24 15:42:32->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:4  da_cycle:-9999   realization:17 concurrent:1)
+06/26/24 15:42:32->Sending run_id:18 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 group_id:4  da_cycle:-9999   realization:18 concurrent:1)
+06/26/24 15:42:32->Sending run_id:19 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 group_id:4  da_cycle:-9999   realization:19 concurrent:1)
+06/26/24 15:42:36-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0532333  avg_run_time:0.0532333 group_id:4  da_cycle:-9999   realization:10  worker_time:0.0532 concurrent:1
+06/26/24 15:42:36->run 10 processed
+06/26/24 15:42:36-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0532833  avg_run_time:0.0532583 group_id:4  da_cycle:-9999   realization:9  worker_time:0.0532 concurrent:1
+06/26/24 15:42:36->run 9 processed
+06/26/24 15:42:36-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0532667  avg_run_time:0.0532611 group_id:4  da_cycle:-9999   realization:13  worker_time:0.0531833 concurrent:1
+06/26/24 15:42:36->run 13 processed
+06/26/24 15:42:36-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0532833  avg_run_time:0.0532667 group_id:4  da_cycle:-9999   realization:15  worker_time:0.0532 concurrent:1
+06/26/24 15:42:36->run 15 processed
+06/26/24 15:42:36->Sending run_id:20 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:4  da_cycle:-9999   realization:20 concurrent:1)
+06/26/24 15:42:36->Sending run_id:21 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:4  da_cycle:-9999   realization:21 concurrent:1)
+06/26/24 15:42:36->Sending run_id:22 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:4  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:42:36->Sending run_id:23 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:4  da_cycle:-9999   realization:23 concurrent:1)
+06/26/24 15:42:36-> run_id:19 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20  run_time:0.0586667  avg_run_time:0.0543467 group_id:4  da_cycle:-9999   realization:19  worker_time:0.0586333 concurrent:1
+06/26/24 15:42:36->run 19 processed
+06/26/24 15:42:36-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0587  avg_run_time:0.0550722 group_id:4  da_cycle:-9999   realization:0  worker_time:0.0586667 concurrent:1
+06/26/24 15:42:36->run 0 processed
+06/26/24 15:42:36-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0587167  avg_run_time:0.0555929 group_id:4  da_cycle:-9999   realization:1  worker_time:0.05865 concurrent:1
+06/26/24 15:42:36->run 1 processed
+06/26/24 15:42:36-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0587167  avg_run_time:0.0559833 group_id:4  da_cycle:-9999   realization:3  worker_time:0.0586667 concurrent:1
+06/26/24 15:42:36->run 3 processed
+06/26/24 15:42:36-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0587  avg_run_time:0.0562852 group_id:4  da_cycle:-9999   realization:7  worker_time:0.05865 concurrent:1
+06/26/24 15:42:36->run 7 processed
+06/26/24 15:42:36-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0587167  avg_run_time:0.0565283 group_id:4  da_cycle:-9999   realization:8  worker_time:0.05865 concurrent:1
+06/26/24 15:42:36->run 8 processed
+06/26/24 15:42:36-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0587167  avg_run_time:0.0567273 group_id:4  da_cycle:-9999   realization:6  worker_time:0.0586667 concurrent:1
+06/26/24 15:42:36->run 6 processed
+06/26/24 15:42:36-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0587167  avg_run_time:0.0568931 group_id:4  da_cycle:-9999   realization:11  worker_time:0.05865 concurrent:1
+06/26/24 15:42:36->run 11 processed
+06/26/24 15:42:36-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0587167  avg_run_time:0.0570333 group_id:4  da_cycle:-9999   realization:14  worker_time:0.05865 concurrent:1
+06/26/24 15:42:36->run 14 processed
+06/26/24 15:42:36-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0587167  avg_run_time:0.0571536 group_id:4  da_cycle:-9999   realization:16  worker_time:0.05865 concurrent:1
+06/26/24 15:42:36->run 16 processed
+06/26/24 15:42:36-> run_id:18 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19  run_time:0.0587167  avg_run_time:0.0572578 group_id:4  da_cycle:-9999   realization:18  worker_time:0.0586333 concurrent:1
+06/26/24 15:42:36->run 18 processed
+06/26/24 15:42:36->Sending run_id:24 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 group_id:4  da_cycle:-9999   realization:24 concurrent:1)
+06/26/24 15:42:36->Sending run_id:25 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:4  da_cycle:-9999   realization:25 concurrent:1)
+06/26/24 15:42:36->Sending run_id:26 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:4  da_cycle:-9999   realization:26 concurrent:1)
+06/26/24 15:42:36->Sending run_id:27 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:4  da_cycle:-9999   realization:27 concurrent:1)
+06/26/24 15:42:36->Sending run_id:28 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:4  da_cycle:-9999   realization:29 concurrent:1)
+06/26/24 15:42:36->Sending run_id:29 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:4  da_cycle:-9999   realization:30 concurrent:1)
+06/26/24 15:42:36->Sending run_id:30 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:4  da_cycle:-9999   realization:31 concurrent:1)
+06/26/24 15:42:36->Sending run_id:31 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:4  da_cycle:-9999   realization:32 concurrent:1)
+06/26/24 15:42:36->Sending run_id:32 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:4  da_cycle:-9999   realization:33 concurrent:1)
+06/26/24 15:42:36->Sending run_id:33 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:4  da_cycle:-9999   realization:34 concurrent:1)
+06/26/24 15:42:36->Sending run_id:34 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 group_id:4  da_cycle:-9999   realization:35 concurrent:1)
+06/26/24 15:42:36-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.06415  avg_run_time:0.0576885 group_id:4  da_cycle:-9999   realization:4  worker_time:0.0641167 concurrent:1
+06/26/24 15:42:36->run 4 processed
+06/26/24 15:42:36-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0641667  avg_run_time:0.0580696 group_id:4  da_cycle:-9999   realization:2  worker_time:0.0641333 concurrent:1
+06/26/24 15:42:36->run 2 processed
+06/26/24 15:42:36-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0641667  avg_run_time:0.0584083 group_id:4  da_cycle:-9999   realization:5  worker_time:0.0641167 concurrent:1
+06/26/24 15:42:36->run 5 processed
+06/26/24 15:42:36-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.06415  avg_run_time:0.0587105 group_id:4  da_cycle:-9999   realization:12  worker_time:0.0641 concurrent:1
+06/26/24 15:42:36->run 12 processed
+06/26/24 15:42:36-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.06415  avg_run_time:0.0589825 group_id:4  da_cycle:-9999   realization:17  worker_time:0.0640833 concurrent:1
+06/26/24 15:42:36->run 17 processed
+06/26/24 15:42:36->Sending run_id:35 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:4  da_cycle:-9999   realization:36 concurrent:1)
+06/26/24 15:42:36->Sending run_id:36 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:4  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:36->Sending run_id:37 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:4  da_cycle:-9999   realization:38 concurrent:1)
+06/26/24 15:42:39-> run_id:23 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0514333  avg_run_time:0.05889 group_id:4  da_cycle:-9999   realization:23  worker_time:0.04785 concurrent:1
+06/26/24 15:42:39->run 23 processed
+06/26/24 15:42:39-> run_id:21 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.05145  avg_run_time:0.0587983 group_id:4  da_cycle:-9999   realization:21  worker_time:0.04785 concurrent:1
+06/26/24 15:42:39->run 21 processed
+06/26/24 15:42:39-> run_id:20 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0514333  avg_run_time:0.0587083 group_id:4  da_cycle:-9999   realization:20  worker_time:0.0478333 concurrent:1
+06/26/24 15:42:39->run 20 processed
+06/26/24 15:42:39-> run_id:22 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.05145  avg_run_time:0.0586175 group_id:4  da_cycle:-9999   realization:22  worker_time:0.04785 concurrent:1
+06/26/24 15:42:39->run 22 processed
+06/26/24 15:42:39-> run_id:29 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.05415  avg_run_time:0.05839 group_id:4  da_cycle:-9999   realization:30  worker_time:0.0478 concurrent:1
+06/26/24 15:42:39->run 29 processed
+06/26/24 15:42:39-> run_id:28 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0541667  avg_run_time:0.0581625 group_id:4  da_cycle:-9999   realization:29  worker_time:0.0478 concurrent:1
+06/26/24 15:42:39->run 28 processed
+06/26/24 15:42:39-> run_id:32 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.05415  avg_run_time:0.0579342 group_id:4  da_cycle:-9999   realization:33  worker_time:0.0478167 concurrent:1
+06/26/24 15:42:39->run 32 processed
+06/26/24 15:42:39-> run_id:33 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0541667  avg_run_time:0.0577067 group_id:4  da_cycle:-9999   realization:34  worker_time:0.0478167 concurrent:1
+06/26/24 15:42:39->run 33 processed
+06/26/24 15:42:39-> run_id:34 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19  run_time:0.0541667  avg_run_time:0.0574792 group_id:4  da_cycle:-9999   realization:35  worker_time:0.0478 concurrent:1
+06/26/24 15:42:39->run 34 processed
+06/26/24 15:42:39-> run_id:24 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20  run_time:0.05415  avg_run_time:0.0572533 group_id:4  da_cycle:-9999   realization:24  worker_time:0.0478 concurrent:1
+06/26/24 15:42:39->run 24 processed
+06/26/24 15:42:39-> run_id:30 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.05685  avg_run_time:0.05716 group_id:4  da_cycle:-9999   realization:31  worker_time:0.0532 concurrent:1
+06/26/24 15:42:39->run 30 processed
+06/26/24 15:42:39-> run_id:25 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0568667  avg_run_time:0.0570683 group_id:4  da_cycle:-9999   realization:25  worker_time:0.0532 concurrent:1
+06/26/24 15:42:39->run 25 processed
+06/26/24 15:42:39-> run_id:26 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0568667  avg_run_time:0.0569758 group_id:4  da_cycle:-9999   realization:26  worker_time:0.0532 concurrent:1
+06/26/24 15:42:39->run 26 processed
+06/26/24 15:42:39-> run_id:27 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0568833  avg_run_time:0.0568842 group_id:4  da_cycle:-9999   realization:27  worker_time:0.0532 concurrent:1
+06/26/24 15:42:39->run 27 processed
+06/26/24 15:42:39-> run_id:37 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0568833  avg_run_time:0.05652 group_id:4  da_cycle:-9999   realization:38  worker_time:0.0476 concurrent:1
+06/26/24 15:42:39->run 37 processed
+06/26/24 15:42:39-> run_id:31 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0568833  avg_run_time:0.0564283 group_id:4  da_cycle:-9999   realization:32  worker_time:0.0532 concurrent:1
+06/26/24 15:42:39->run 31 processed
+06/26/24 15:42:39-> run_id:36 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.05775  avg_run_time:0.0561075 group_id:4  da_cycle:-9999   realization:37  worker_time:0.0494 concurrent:1
+06/26/24 15:42:39->run 36 processed
+06/26/24 15:42:39-> run_id:35 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0577667  avg_run_time:0.0557883 group_id:4  da_cycle:-9999   realization:36  worker_time:0.0494 concurrent:1
+06/26/24 15:42:39->run 35 processed
+
+---------------------
+   38 runs complete :  0 runs failed
+   0.0558 avg run time (min) : 0.166 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:42:42->Panther idle ping thread resumed.
+06/26/24 15:42:42->Panther idle ping thread paused prior to scheduling runs.
+running model 18 times
+06/26/24 15:42:42->    20 agents ready
+
+06/26/24 15:42:42->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:42->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:42->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:42->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:42->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:42->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:42->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:42->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:42->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:5  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:42->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:5  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:42:46-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.0533167  avg_run_time:0.0533167 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0532667 concurrent:1
+06/26/24 15:42:46->run 17 processed
+06/26/24 15:42:46-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.05335  avg_run_time:0.0533333 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0533167 concurrent:1
+06/26/24 15:42:46->run 1 processed
+06/26/24 15:42:46-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0533667  avg_run_time:0.0533444 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0532667 concurrent:1
+06/26/24 15:42:46->run 2 processed
+06/26/24 15:42:46-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.05335  avg_run_time:0.0533458 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0533 concurrent:1
+06/26/24 15:42:46->run 7 processed
+06/26/24 15:42:46-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0533667  avg_run_time:0.05335 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0533167 concurrent:1
+06/26/24 15:42:46->run 4 processed
+06/26/24 15:42:46-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0533667  avg_run_time:0.0533528 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0532833 concurrent:1
+06/26/24 15:42:46->run 8 processed
+06/26/24 15:42:46-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0533667  avg_run_time:0.0533548 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0533 concurrent:1
+06/26/24 15:42:46->run 6 processed
+06/26/24 15:42:46-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0533667  avg_run_time:0.0533563 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0532833 concurrent:1
+06/26/24 15:42:46->run 12 processed
+06/26/24 15:42:46-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0533667  avg_run_time:0.0533574 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0533 concurrent:1
+06/26/24 15:42:46->run 9 processed
+06/26/24 15:42:46-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0533667  avg_run_time:0.0533583 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0533 concurrent:1
+06/26/24 15:42:46->run 13 processed
+06/26/24 15:42:46-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0533667  avg_run_time:0.0533591 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0532667 concurrent:1
+06/26/24 15:42:46->run 15 processed
+06/26/24 15:42:46-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0533667  avg_run_time:0.0533597 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0532833 concurrent:1
+06/26/24 15:42:46->run 16 processed
+06/26/24 15:42:46-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0587667  avg_run_time:0.0537756 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0587167 concurrent:1
+06/26/24 15:42:46->run 3 processed
+06/26/24 15:42:46-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0587833  avg_run_time:0.0541333 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0587333 concurrent:1
+06/26/24 15:42:46->run 0 processed
+06/26/24 15:42:46-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0587833  avg_run_time:0.0544433 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0587333 concurrent:1
+06/26/24 15:42:46->run 5 processed
+06/26/24 15:42:46-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0587833  avg_run_time:0.0547146 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0587167 concurrent:1
+06/26/24 15:42:46->run 10 processed
+06/26/24 15:42:46-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0587833  avg_run_time:0.0549539 group_id:5  da_cycle:-9999   realization:11  worker_time:0.0587167 concurrent:1
+06/26/24 15:42:46->run 11 processed
+06/26/24 15:42:46-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0587667  avg_run_time:0.0551657 group_id:5  da_cycle:-9999   realization:base  worker_time:0.0587167 concurrent:1
+06/26/24 15:42:46->run 14 processed
+
+---------------------
+   18 runs complete :  0 runs failed
+   0.0552 avg run time (min) : 0.109 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:42:49->Panther idle ping thread resumed.
+06/26/24 15:42:49->Panther idle ping thread paused prior to scheduling runs.
+running model 38 times
+06/26/24 15:42:49->    20 agents ready
+
+06/26/24 15:42:49->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:6  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:42:49->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:6  da_cycle:-9999   realization:0 concurrent:1)
+06/26/24 15:42:49->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:6  da_cycle:-9999   realization:1 concurrent:1)
+06/26/24 15:42:49->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:6  da_cycle:-9999   realization:2 concurrent:1)
+06/26/24 15:42:49->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:6  da_cycle:-9999   realization:3 concurrent:1)
+06/26/24 15:42:49->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:6  da_cycle:-9999   realization:4 concurrent:1)
+06/26/24 15:42:49->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:6  da_cycle:-9999   realization:5 concurrent:1)
+06/26/24 15:42:49->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:6  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:42:49->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:6  da_cycle:-9999   realization:7 concurrent:1)
+06/26/24 15:42:49->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:6  da_cycle:-9999   realization:8 concurrent:1)
+06/26/24 15:42:49->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:6  da_cycle:-9999   realization:9 concurrent:1)
+06/26/24 15:42:49->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:6  da_cycle:-9999   realization:10 concurrent:1)
+06/26/24 15:42:49->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:6  da_cycle:-9999   realization:12 concurrent:1)
+06/26/24 15:42:49->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:6  da_cycle:-9999   realization:13 concurrent:1)
+06/26/24 15:42:49->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:6  da_cycle:-9999   realization:14 concurrent:1)
+06/26/24 15:42:49->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:6  da_cycle:-9999   realization:15 concurrent:1)
+06/26/24 15:42:49->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:6  da_cycle:-9999   realization:16 concurrent:1)
+06/26/24 15:42:49->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:6  da_cycle:-9999   realization:17 concurrent:1)
+06/26/24 15:42:49->Sending run_id:18 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 group_id:6  da_cycle:-9999   realization:18 concurrent:1)
+06/26/24 15:42:49->Sending run_id:19 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 group_id:6  da_cycle:-9999   realization:19 concurrent:1)
+06/26/24 15:42:52-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0534167  avg_run_time:0.0534167 group_id:6  da_cycle:-9999   realization:3  worker_time:0.0533833 concurrent:1
+06/26/24 15:42:52->run 4 processed
+06/26/24 15:42:52-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0534333  avg_run_time:0.053425 group_id:6  da_cycle:-9999   realization:28  worker_time:0.0533833 concurrent:1
+06/26/24 15:42:52->run 0 processed
+06/26/24 15:42:52-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0534333  avg_run_time:0.0534278 group_id:6  da_cycle:-9999   realization:0  worker_time:0.0533667 concurrent:1
+06/26/24 15:42:52->run 1 processed
+06/26/24 15:42:52-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0534333  avg_run_time:0.0534292 group_id:6  da_cycle:-9999   realization:2  worker_time:0.0533833 concurrent:1
+06/26/24 15:42:52->run 3 processed
+06/26/24 15:42:52-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0534333  avg_run_time:0.05343 group_id:6  da_cycle:-9999   realization:6  worker_time:0.0533667 concurrent:1
+06/26/24 15:42:52->run 7 processed
+06/26/24 15:42:52-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.0534167  avg_run_time:0.0534278 group_id:6  da_cycle:-9999   realization:17  worker_time:0.05335 concurrent:1
+06/26/24 15:42:52->run 17 processed
+06/26/24 15:42:52->Sending run_id:20 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:6  da_cycle:-9999   realization:20 concurrent:1)
+06/26/24 15:42:52->Sending run_id:21 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:6  da_cycle:-9999   realization:21 concurrent:1)
+06/26/24 15:42:52->Sending run_id:22 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:6  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:42:52->Sending run_id:23 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:6  da_cycle:-9999   realization:23 concurrent:1)
+06/26/24 15:42:52->Sending run_id:24 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:6  da_cycle:-9999   realization:24 concurrent:1)
+06/26/24 15:42:52->Sending run_id:25 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:6  da_cycle:-9999   realization:25 concurrent:1)
+06/26/24 15:42:53-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.05865  avg_run_time:0.0541738 group_id:6  da_cycle:-9999   realization:4  worker_time:0.0586167 concurrent:1
+06/26/24 15:42:53->run 5 processed
+06/26/24 15:42:53-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.05865  avg_run_time:0.0547333 group_id:6  da_cycle:-9999   realization:10  worker_time:0.0586 concurrent:1
+06/26/24 15:42:53->run 11 processed
+06/26/24 15:42:53->Sending run_id:26 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:6  da_cycle:-9999   realization:26 concurrent:1)
+06/26/24 15:42:53-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.05865  avg_run_time:0.0551685 group_id:6  da_cycle:-9999   realization:12  worker_time:0.0586 concurrent:1
+06/26/24 15:42:53->run 12 processed
+06/26/24 15:42:53-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.05865  avg_run_time:0.0555167 group_id:6  da_cycle:-9999   realization:14  worker_time:0.0586 concurrent:1
+06/26/24 15:42:53->run 14 processed
+06/26/24 15:42:53-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0586667  avg_run_time:0.055803 group_id:6  da_cycle:-9999   realization:15  worker_time:0.0586 concurrent:1
+06/26/24 15:42:53->run 15 processed
+06/26/24 15:42:53-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0586667  avg_run_time:0.0560417 group_id:6  da_cycle:-9999   realization:16  worker_time:0.0586167 concurrent:1
+06/26/24 15:42:53->run 16 processed
+06/26/24 15:42:53-> run_id:19 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20  run_time:0.0586667  avg_run_time:0.0562436 group_id:6  da_cycle:-9999   realization:19  worker_time:0.0586 concurrent:1
+06/26/24 15:42:53->run 19 processed
+06/26/24 15:42:53->Sending run_id:27 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:6  da_cycle:-9999   realization:27 concurrent:1)
+06/26/24 15:42:53-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0586833  avg_run_time:0.0564179 group_id:6  da_cycle:-9999   realization:13  worker_time:0.0585833 concurrent:1
+06/26/24 15:42:53->run 13 processed
+06/26/24 15:42:53->Sending run_id:28 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:6  da_cycle:-9999   realization:29 concurrent:1)
+06/26/24 15:42:53->Sending run_id:29 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:6  da_cycle:-9999   realization:30 concurrent:1)
+06/26/24 15:42:53->Sending run_id:30 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:6  da_cycle:-9999   realization:31 concurrent:1)
+06/26/24 15:42:53->Sending run_id:31 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:6  da_cycle:-9999   realization:32 concurrent:1)
+06/26/24 15:42:53->Sending run_id:32 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 group_id:6  da_cycle:-9999   realization:33 concurrent:1)
+06/26/24 15:42:53->Sending run_id:33 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:6  da_cycle:-9999   realization:34 concurrent:1)
+06/26/24 15:42:53-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0588833  avg_run_time:0.0565822 group_id:6  da_cycle:-9999   realization:5  worker_time:0.0588667 concurrent:1
+06/26/24 15:42:53->run 6 processed
+06/26/24 15:42:53-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0589  avg_run_time:0.0567271 group_id:6  da_cycle:-9999   realization:1  worker_time:0.0588667 concurrent:1
+06/26/24 15:42:53->run 2 processed
+06/26/24 15:42:53-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0589  avg_run_time:0.0568549 group_id:6  da_cycle:-9999   realization:8  worker_time:0.05885 concurrent:1
+06/26/24 15:42:53->run 9 processed
+06/26/24 15:42:53->Sending run_id:34 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:6  da_cycle:-9999   realization:35 concurrent:1)
+06/26/24 15:42:53->Sending run_id:35 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:6  da_cycle:-9999   realization:36 concurrent:1)
+06/26/24 15:42:53->Sending run_id:36 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:6  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:53-> run_id:18 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19  run_time:0.0641167  avg_run_time:0.0572583 group_id:6  da_cycle:-9999   realization:18  worker_time:0.0640833 concurrent:1
+06/26/24 15:42:53->run 18 processed
+06/26/24 15:42:53-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.06415  avg_run_time:0.0576211 group_id:6  da_cycle:-9999   realization:7  worker_time:0.0641167 concurrent:1
+06/26/24 15:42:53->run 8 processed
+06/26/24 15:42:53-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.06415  avg_run_time:0.0579475 group_id:6  da_cycle:-9999   realization:9  worker_time:0.0641 concurrent:1
+06/26/24 15:42:53->run 10 processed
+06/26/24 15:42:53->Sending run_id:37 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 group_id:6  da_cycle:-9999   realization:38 concurrent:1)
+06/26/24 15:42:55-> run_id:20 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0515667  avg_run_time:0.057855 group_id:6  da_cycle:-9999   realization:20  worker_time:0.0479167 concurrent:1
+06/26/24 15:42:55->run 20 processed
+06/26/24 15:42:55-> run_id:21 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0515667  avg_run_time:0.0577617 group_id:6  da_cycle:-9999   realization:21  worker_time:0.0479167 concurrent:1
+06/26/24 15:42:55->run 21 processed
+06/26/24 15:42:55-> run_id:23 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0515667  avg_run_time:0.0576683 group_id:6  da_cycle:-9999   realization:23  worker_time:0.0479167 concurrent:1
+06/26/24 15:42:55->run 23 processed
+06/26/24 15:42:55-> run_id:24 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0515667  avg_run_time:0.057575 group_id:6  da_cycle:-9999   realization:24  worker_time:0.0479167 concurrent:1
+06/26/24 15:42:55->run 24 processed
+06/26/24 15:42:55-> run_id:25 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.0515667  avg_run_time:0.0574825 group_id:6  da_cycle:-9999   realization:25  worker_time:0.0479167 concurrent:1
+06/26/24 15:42:55->run 25 processed
+06/26/24 15:42:55-> run_id:22 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0533667  avg_run_time:0.0574792 group_id:6  da_cycle:-9999   realization:22  worker_time:0.0515167 concurrent:1
+06/26/24 15:42:55->run 22 processed
+06/26/24 15:42:56-> run_id:28 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0541333  avg_run_time:0.0572533 group_id:6  da_cycle:-9999   realization:29  worker_time:0.0478167 concurrent:1
+06/26/24 15:42:56->run 28 processed
+06/26/24 15:42:56-> run_id:26 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.05415  avg_run_time:0.0570283 group_id:6  da_cycle:-9999   realization:26  worker_time:0.0478167 concurrent:1
+06/26/24 15:42:56->run 26 processed
+06/26/24 15:42:56-> run_id:27 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0541333  avg_run_time:0.0568025 group_id:6  da_cycle:-9999   realization:27  worker_time:0.0478167 concurrent:1
+06/26/24 15:42:56->run 27 processed
+06/26/24 15:42:56-> run_id:33 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.05415  avg_run_time:0.0565758 group_id:6  da_cycle:-9999   realization:34  worker_time:0.0478167 concurrent:1
+06/26/24 15:42:56->run 33 processed
+06/26/24 15:42:56-> run_id:29 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.05415  avg_run_time:0.0563508 group_id:6  da_cycle:-9999   realization:30  worker_time:0.0478167 concurrent:1
+06/26/24 15:42:56->run 29 processed
+06/26/24 15:42:56-> run_id:34 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0542667  avg_run_time:0.05612 group_id:6  da_cycle:-9999   realization:35  worker_time:0.0478 concurrent:1
+06/26/24 15:42:56->run 34 processed
+06/26/24 15:42:56-> run_id:30 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.05685  avg_run_time:0.0560292 group_id:6  da_cycle:-9999   realization:31  worker_time:0.05325 concurrent:1
+06/26/24 15:42:56->run 30 processed
+06/26/24 15:42:56-> run_id:31 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0568667  avg_run_time:0.0559392 group_id:6  da_cycle:-9999   realization:32  worker_time:0.05325 concurrent:1
+06/26/24 15:42:56->run 31 processed
+06/26/24 15:42:56-> run_id:37 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19  run_time:0.0568667  avg_run_time:0.0555767 group_id:6  da_cycle:-9999   realization:38  worker_time:0.0476667 concurrent:1
+06/26/24 15:42:56->run 37 processed
+06/26/24 15:42:56-> run_id:32 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20  run_time:0.0568667  avg_run_time:0.0554867 group_id:6  da_cycle:-9999   realization:33  worker_time:0.05325 concurrent:1
+06/26/24 15:42:56->run 32 processed
+06/26/24 15:42:56-> run_id:35 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.057  avg_run_time:0.0553917 group_id:6  da_cycle:-9999   realization:36  worker_time:0.05325 concurrent:1
+06/26/24 15:42:56->run 35 processed
+06/26/24 15:42:56-> run_id:36 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.057  avg_run_time:0.0552967 group_id:6  da_cycle:-9999   realization:37  worker_time:0.05325 concurrent:1
+06/26/24 15:42:56->run 36 processed
+
+---------------------
+   38 runs complete :  0 runs failed
+   0.0553 avg run time (min) : 0.164 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:42:59->Panther idle ping thread resumed.
+06/26/24 15:42:59->Panther idle ping thread paused prior to scheduling runs.
+running model 18 times
+06/26/24 15:42:59->    20 agents ready
+
+06/26/24 15:42:59->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:59->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:59->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:59->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:59->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:59->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:59->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:59->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:42:59->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:7  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:42:59->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:7  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:43:02-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0478333  avg_run_time:0.0478333 group_id:7  da_cycle:-9999   realization:37  worker_time:0.0477833 concurrent:1
+06/26/24 15:43:02->run 9 processed
+06/26/24 15:43:02-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0478667  avg_run_time:0.04785 group_id:7  da_cycle:-9999   realization:37  worker_time:0.0478167 concurrent:1
+06/26/24 15:43:02->run 5 processed
+06/26/24 15:43:02-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0532833  avg_run_time:0.0496611 group_id:7  da_cycle:-9999   realization:base  worker_time:0.05325 concurrent:1
+06/26/24 15:43:02->run 2 processed
+06/26/24 15:43:02-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0533  avg_run_time:0.0505708 group_id:7  da_cycle:-9999   realization:base  worker_time:0.05325 concurrent:1
+06/26/24 15:43:02->run 0 processed
+06/26/24 15:43:02-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0533  avg_run_time:0.0511167 group_id:7  da_cycle:-9999   realization:37  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:02->run 1 processed
+06/26/24 15:43:02-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0533  avg_run_time:0.0514806 group_id:7  da_cycle:-9999   realization:37  worker_time:0.05325 concurrent:1
+06/26/24 15:43:02->run 3 processed
+06/26/24 15:43:02-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0532833  avg_run_time:0.0517381 group_id:7  da_cycle:-9999   realization:37  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:02->run 7 processed
+06/26/24 15:43:02-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0532833  avg_run_time:0.0519313 group_id:7  da_cycle:-9999   realization:base  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:02->run 8 processed
+06/26/24 15:43:02-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0533  avg_run_time:0.0520833 group_id:7  da_cycle:-9999   realization:base  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:02->run 6 processed
+06/26/24 15:43:02-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0532833  avg_run_time:0.0522033 group_id:7  da_cycle:-9999   realization:base  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:02->run 12 processed
+06/26/24 15:43:02-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0532833  avg_run_time:0.0523015 group_id:7  da_cycle:-9999   realization:37  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:02->run 11 processed
+06/26/24 15:43:02-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.0532833  avg_run_time:0.0523833 group_id:7  da_cycle:-9999   realization:37  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:02->run 17 processed
+06/26/24 15:43:02-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0532833  avg_run_time:0.0524526 group_id:7  da_cycle:-9999   realization:base  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:02->run 16 processed
+06/26/24 15:43:02-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0586833  avg_run_time:0.0528976 group_id:7  da_cycle:-9999   realization:37  worker_time:0.05865 concurrent:1
+06/26/24 15:43:02->run 13 processed
+06/26/24 15:43:02-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0587167  avg_run_time:0.0532856 group_id:7  da_cycle:-9999   realization:base  worker_time:0.0586667 concurrent:1
+06/26/24 15:43:02->run 4 processed
+06/26/24 15:43:02-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0587167  avg_run_time:0.053625 group_id:7  da_cycle:-9999   realization:base  worker_time:0.0586667 concurrent:1
+06/26/24 15:43:02->run 10 processed
+06/26/24 15:43:02-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0587167  avg_run_time:0.0539245 group_id:7  da_cycle:-9999   realization:base  worker_time:0.05865 concurrent:1
+06/26/24 15:43:02->run 14 processed
+06/26/24 15:43:02-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0587167  avg_run_time:0.0541907 group_id:7  da_cycle:-9999   realization:37  worker_time:0.05865 concurrent:1
+06/26/24 15:43:02->run 15 processed
+
+---------------------
+   18 runs complete :  0 runs failed
+   0.0542 avg run time (min) : 0.109 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:43:06->Panther idle ping thread resumed.
+06/26/24 15:43:06->Panther idle ping thread paused prior to scheduling runs.
+running model 38 times
+06/26/24 15:43:06->    20 agents ready
+
+06/26/24 15:43:06->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:8  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:43:06->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:8  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:43:06->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:8  da_cycle:-9999   realization:0 concurrent:1)
+06/26/24 15:43:06->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:8  da_cycle:-9999   realization:1 concurrent:1)
+06/26/24 15:43:06->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:8  da_cycle:-9999   realization:2 concurrent:1)
+06/26/24 15:43:06->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:8  da_cycle:-9999   realization:3 concurrent:1)
+06/26/24 15:43:06->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:8  da_cycle:-9999   realization:4 concurrent:1)
+06/26/24 15:43:06->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:8  da_cycle:-9999   realization:5 concurrent:1)
+06/26/24 15:43:06->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:8  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:06->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:8  da_cycle:-9999   realization:7 concurrent:1)
+06/26/24 15:43:06->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:8  da_cycle:-9999   realization:8 concurrent:1)
+06/26/24 15:43:06->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:8  da_cycle:-9999   realization:9 concurrent:1)
+06/26/24 15:43:06->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:8  da_cycle:-9999   realization:10 concurrent:1)
+06/26/24 15:43:06->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:8  da_cycle:-9999   realization:12 concurrent:1)
+06/26/24 15:43:06->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:8  da_cycle:-9999   realization:13 concurrent:1)
+06/26/24 15:43:06->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:8  da_cycle:-9999   realization:14 concurrent:1)
+06/26/24 15:43:06->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:8  da_cycle:-9999   realization:15 concurrent:1)
+06/26/24 15:43:06->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:8  da_cycle:-9999   realization:16 concurrent:1)
+06/26/24 15:43:06->Sending run_id:18 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 group_id:8  da_cycle:-9999   realization:17 concurrent:1)
+06/26/24 15:43:06->Sending run_id:19 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 group_id:8  da_cycle:-9999   realization:18 concurrent:1)
+06/26/24 15:43:09-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0532667  avg_run_time:0.0532667 group_id:8  da_cycle:-9999   realization:6  worker_time:0.0532167 concurrent:1
+06/26/24 15:43:09->run 8 processed
+06/26/24 15:43:09-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0533  avg_run_time:0.0532833 group_id:8  da_cycle:-9999   realization:1  worker_time:0.05325 concurrent:1
+06/26/24 15:43:09->run 3 processed
+06/26/24 15:43:09-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0533  avg_run_time:0.0532889 group_id:8  da_cycle:-9999   realization:2  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:09->run 4 processed
+06/26/24 15:43:09-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0532833  avg_run_time:0.0532875 group_id:8  da_cycle:-9999   realization:8  worker_time:0.0532167 concurrent:1
+06/26/24 15:43:09->run 10 processed
+06/26/24 15:43:09-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0532833  avg_run_time:0.0532867 group_id:8  da_cycle:-9999   realization:14  worker_time:0.0532167 concurrent:1
+06/26/24 15:43:09->run 15 processed
+06/26/24 15:43:09->Sending run_id:20 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:8  da_cycle:-9999   realization:19 concurrent:1)
+06/26/24 15:43:09->Sending run_id:21 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:8  da_cycle:-9999   realization:20 concurrent:1)
+06/26/24 15:43:09->Sending run_id:22 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:8  da_cycle:-9999   realization:21 concurrent:1)
+06/26/24 15:43:09->Sending run_id:23 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:8  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:09->Sending run_id:24 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:8  da_cycle:-9999   realization:23 concurrent:1)
+06/26/24 15:43:09-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0535  avg_run_time:0.0533222 group_id:8  da_cycle:-9999   realization:9  worker_time:0.0533833 concurrent:1
+06/26/24 15:43:09->run 11 processed
+06/26/24 15:43:09->Sending run_id:25 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:8  da_cycle:-9999   realization:24 concurrent:1)
+06/26/24 15:43:09-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.0587  avg_run_time:0.0540905 group_id:8  da_cycle:-9999   realization:16  worker_time:0.0586667 concurrent:1
+06/26/24 15:43:09->run 17 processed
+06/26/24 15:43:09-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0587167  avg_run_time:0.0546688 group_id:8  da_cycle:-9999   realization:10  worker_time:0.0586833 concurrent:1
+06/26/24 15:43:09->run 12 processed
+06/26/24 15:43:09-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0587167  avg_run_time:0.0551185 group_id:8  da_cycle:-9999   realization:13  worker_time:0.0586667 concurrent:1
+06/26/24 15:43:09->run 14 processed
+06/26/24 15:43:09-> run_id:18 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19  run_time:0.0587167  avg_run_time:0.0554783 group_id:8  da_cycle:-9999   realization:17  worker_time:0.0586833 concurrent:1
+06/26/24 15:43:09->run 18 processed
+06/26/24 15:43:09-> run_id:19 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20  run_time:0.0587167  avg_run_time:0.0557727 group_id:8  da_cycle:-9999   realization:18  worker_time:0.0586833 concurrent:1
+06/26/24 15:43:09->run 19 processed
+06/26/24 15:43:09->Sending run_id:26 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:8  da_cycle:-9999   realization:25 concurrent:1)
+06/26/24 15:43:09-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0587667  avg_run_time:0.0560222 group_id:8  da_cycle:-9999   realization:11  worker_time:0.0586833 concurrent:1
+06/26/24 15:43:09->run 0 processed
+06/26/24 15:43:09-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0587667  avg_run_time:0.0562333 group_id:8  da_cycle:-9999   realization:0  worker_time:0.0587333 concurrent:1
+06/26/24 15:43:09->run 2 processed
+06/26/24 15:43:09-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0587667  avg_run_time:0.0564143 group_id:8  da_cycle:-9999   realization:5  worker_time:0.0587167 concurrent:1
+06/26/24 15:43:09->run 7 processed
+06/26/24 15:43:09-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0587667  avg_run_time:0.0565711 group_id:8  da_cycle:-9999   realization:3  worker_time:0.0587167 concurrent:1
+06/26/24 15:43:09->run 5 processed
+06/26/24 15:43:09-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0587833  avg_run_time:0.0567094 group_id:8  da_cycle:-9999   realization:4  worker_time:0.0587167 concurrent:1
+06/26/24 15:43:09->run 6 processed
+06/26/24 15:43:09-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0587667  avg_run_time:0.0568304 group_id:8  da_cycle:-9999   realization:7  worker_time:0.0587 concurrent:1
+06/26/24 15:43:09->run 9 processed
+06/26/24 15:43:09-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0587667  avg_run_time:0.056938 group_id:8  da_cycle:-9999   realization:15  worker_time:0.0586833 concurrent:1
+06/26/24 15:43:09->run 16 processed
+06/26/24 15:43:09->Sending run_id:27 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:8  da_cycle:-9999   realization:26 concurrent:1)
+06/26/24 15:43:09->Sending run_id:28 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:8  da_cycle:-9999   realization:27 concurrent:1)
+06/26/24 15:43:09->Sending run_id:29 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 group_id:8  da_cycle:-9999   realization:29 concurrent:1)
+06/26/24 15:43:09->Sending run_id:30 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 group_id:8  da_cycle:-9999   realization:30 concurrent:1)
+06/26/24 15:43:09->Sending run_id:31 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:8  da_cycle:-9999   realization:31 concurrent:1)
+06/26/24 15:43:09->Sending run_id:32 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:8  da_cycle:-9999   realization:32 concurrent:1)
+06/26/24 15:43:09->Sending run_id:33 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:8  da_cycle:-9999   realization:33 concurrent:1)
+06/26/24 15:43:09->Sending run_id:34 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:8  da_cycle:-9999   realization:34 concurrent:1)
+06/26/24 15:43:09->Sending run_id:35 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:8  da_cycle:-9999   realization:35 concurrent:1)
+06/26/24 15:43:09->Sending run_id:36 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:8  da_cycle:-9999   realization:36 concurrent:1)
+06/26/24 15:43:09->Sending run_id:37 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:8  da_cycle:-9999   realization:38 concurrent:1)
+06/26/24 15:43:09-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0639167  avg_run_time:0.0573053 group_id:8  da_cycle:-9999   realization:12  worker_time:0.0638833 concurrent:1
+06/26/24 15:43:09->run 13 processed
+06/26/24 15:43:09-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0639667  avg_run_time:0.0576383 group_id:8  da_cycle:-9999   realization:28  worker_time:0.0639333 concurrent:1
+06/26/24 15:43:09->run 1 processed
+06/26/24 15:43:12-> run_id:21 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0514333  avg_run_time:0.057545 group_id:8  da_cycle:-9999   realization:20  worker_time:0.0478 concurrent:1
+06/26/24 15:43:12->run 21 processed
+06/26/24 15:43:12-> run_id:22 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.05145  avg_run_time:0.0574525 group_id:8  da_cycle:-9999   realization:21  worker_time:0.0478 concurrent:1
+06/26/24 15:43:12->run 22 processed
+06/26/24 15:43:12-> run_id:20 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.05145  avg_run_time:0.0573617 group_id:8  da_cycle:-9999   realization:19  worker_time:0.0478 concurrent:1
+06/26/24 15:43:12->run 20 processed
+06/26/24 15:43:12-> run_id:23 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.05145  avg_run_time:0.05727 group_id:8  da_cycle:-9999   realization:22  worker_time:0.0478 concurrent:1
+06/26/24 15:43:12->run 23 processed
+06/26/24 15:43:12-> run_id:25 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0515667  avg_run_time:0.0571733 group_id:8  da_cycle:-9999   realization:24  worker_time:0.0477833 concurrent:1
+06/26/24 15:43:12->run 25 processed
+06/26/24 15:43:12-> run_id:24 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.05415  avg_run_time:0.0572167 group_id:8  da_cycle:-9999   realization:23  worker_time:0.05325 concurrent:1
+06/26/24 15:43:12->run 24 processed
+06/26/24 15:43:12-> run_id:33 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0541667  avg_run_time:0.0569867 group_id:8  da_cycle:-9999   realization:33  worker_time:0.0477833 concurrent:1
+06/26/24 15:43:12->run 33 processed
+06/26/24 15:43:12-> run_id:34 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0541833  avg_run_time:0.0567567 group_id:8  da_cycle:-9999   realization:34  worker_time:0.0477833 concurrent:1
+06/26/24 15:43:12->run 34 processed
+06/26/24 15:43:12-> run_id:28 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0541667  avg_run_time:0.0565292 group_id:8  da_cycle:-9999   realization:27  worker_time:0.0477667 concurrent:1
+06/26/24 15:43:12->run 28 processed
+06/26/24 15:43:12-> run_id:26 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.05505  avg_run_time:0.0563467 group_id:8  da_cycle:-9999   realization:25  worker_time:0.0495667 concurrent:1
+06/26/24 15:43:12->run 26 processed
+06/26/24 15:43:12-> run_id:30 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20  run_time:0.05685  avg_run_time:0.0562533 group_id:8  da_cycle:-9999   realization:30  worker_time:0.0532 concurrent:1
+06/26/24 15:43:12->run 30 processed
+06/26/24 15:43:12-> run_id:29 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19  run_time:0.0568667  avg_run_time:0.0561608 group_id:8  da_cycle:-9999   realization:29  worker_time:0.0532 concurrent:1
+06/26/24 15:43:12->run 29 processed
+06/26/24 15:43:12-> run_id:36 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0577833  avg_run_time:0.0561117 group_id:8  da_cycle:-9999   realization:36  worker_time:0.0550167 concurrent:1
+06/26/24 15:43:12->run 36 processed
+06/26/24 15:43:12-> run_id:31 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0578  avg_run_time:0.0560633 group_id:8  da_cycle:-9999   realization:31  worker_time:0.0550333 concurrent:1
+06/26/24 15:43:12->run 31 processed
+06/26/24 15:43:12-> run_id:32 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0578  avg_run_time:0.056015 group_id:8  da_cycle:-9999   realization:32  worker_time:0.0550333 concurrent:1
+06/26/24 15:43:12->run 32 processed
+06/26/24 15:43:12-> run_id:35 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0578  avg_run_time:0.0559667 group_id:8  da_cycle:-9999   realization:35  worker_time:0.0550167 concurrent:1
+06/26/24 15:43:12->run 35 processed
+06/26/24 15:43:12-> run_id:27 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0577833  avg_run_time:0.05592 group_id:8  da_cycle:-9999   realization:26  worker_time:0.0550167 concurrent:1
+06/26/24 15:43:12->run 27 processed
+06/26/24 15:43:12-> run_id:37 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0578  avg_run_time:0.0558717 group_id:8  da_cycle:-9999   realization:38  worker_time:0.0550167 concurrent:1
+06/26/24 15:43:12->run 37 processed
+
+---------------------
+   38 runs complete :  0 runs failed
+   0.0559 avg run time (min) : 0.166 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:43:15->Panther idle ping thread resumed.
+06/26/24 15:43:16->Panther idle ping thread paused prior to scheduling runs.
+running model 18 times
+06/26/24 15:43:16->    20 agents ready
+
+06/26/24 15:43:16->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:16->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:16->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:16->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:16->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:16->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:16->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:16->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:16->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:9  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:16->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:9  da_cycle:-9999   realization:6 concurrent:1)
+06/26/24 15:43:18-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0481333  avg_run_time:0.0481333 group_id:9  da_cycle:-9999   realization:6  worker_time:0.0480833 concurrent:1
+06/26/24 15:43:18->run 13 processed
+06/26/24 15:43:19-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0497  avg_run_time:0.0489167 group_id:9  da_cycle:-9999   realization:6  worker_time:0.0496667 concurrent:1
+06/26/24 15:43:19->run 7 processed
+06/26/24 15:43:19-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0534167  avg_run_time:0.0504167 group_id:9  da_cycle:-9999   realization:6  worker_time:0.0533833 concurrent:1
+06/26/24 15:43:19->run 5 processed
+06/26/24 15:43:19-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0534333  avg_run_time:0.0511708 group_id:9  da_cycle:-9999   realization:6  worker_time:0.0533833 concurrent:1
+06/26/24 15:43:19->run 3 processed
+06/26/24 15:43:19-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.05345  avg_run_time:0.0516267 group_id:9  da_cycle:-9999   realization:base  worker_time:0.0533833 concurrent:1
+06/26/24 15:43:19->run 6 processed
+06/26/24 15:43:19-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0536667  avg_run_time:0.0519667 group_id:9  da_cycle:-9999   realization:6  worker_time:0.0536167 concurrent:1
+06/26/24 15:43:19->run 15 processed
+06/26/24 15:43:19-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0537  avg_run_time:0.0522143 group_id:9  da_cycle:-9999   realization:base  worker_time:0.05365 concurrent:1
+06/26/24 15:43:19->run 2 processed
+06/26/24 15:43:19-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0537  avg_run_time:0.0524 group_id:9  da_cycle:-9999   realization:base  worker_time:0.0536333 concurrent:1
+06/26/24 15:43:19->run 12 processed
+06/26/24 15:43:19-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0537167  avg_run_time:0.0525463 group_id:9  da_cycle:-9999   realization:6  worker_time:0.0536333 concurrent:1
+06/26/24 15:43:19->run 9 processed
+06/26/24 15:43:19-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0537167  avg_run_time:0.0526633 group_id:9  da_cycle:-9999   realization:base  worker_time:0.0536333 concurrent:1
+06/26/24 15:43:19->run 10 processed
+06/26/24 15:43:19-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0537167  avg_run_time:0.0527591 group_id:9  da_cycle:-9999   realization:base  worker_time:0.0536333 concurrent:1
+06/26/24 15:43:19->run 14 processed
+06/26/24 15:43:19-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.0537167  avg_run_time:0.0528389 group_id:9  da_cycle:-9999   realization:6  worker_time:0.0536333 concurrent:1
+06/26/24 15:43:19->run 17 processed
+06/26/24 15:43:19-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0537167  avg_run_time:0.0529064 group_id:9  da_cycle:-9999   realization:base  worker_time:0.0536333 concurrent:1
+06/26/24 15:43:19->run 16 processed
+06/26/24 15:43:19-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0586333  avg_run_time:0.0533155 group_id:9  da_cycle:-9999   realization:base  worker_time:0.0586 concurrent:1
+06/26/24 15:43:19->run 8 processed
+06/26/24 15:43:19-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0586667  avg_run_time:0.0536722 group_id:9  da_cycle:-9999   realization:base  worker_time:0.0586167 concurrent:1
+06/26/24 15:43:19->run 0 processed
+06/26/24 15:43:19-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0586833  avg_run_time:0.0539854 group_id:9  da_cycle:-9999   realization:6  worker_time:0.0586167 concurrent:1
+06/26/24 15:43:19->run 1 processed
+06/26/24 15:43:19-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0586833  avg_run_time:0.0542618 group_id:9  da_cycle:-9999   realization:base  worker_time:0.0586167 concurrent:1
+06/26/24 15:43:19->run 4 processed
+06/26/24 15:43:19-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0589  avg_run_time:0.0545194 group_id:9  da_cycle:-9999   realization:6  worker_time:0.05885 concurrent:1
+06/26/24 15:43:19->run 11 processed
+
+---------------------
+   18 runs complete :  0 runs failed
+   0.0545 avg run time (min) : 0.109 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:43:22->Panther idle ping thread resumed.
+06/26/24 15:43:22->Panther idle ping thread paused prior to scheduling runs.
+running model 38 times
+06/26/24 15:43:22->    20 agents ready
+
+06/26/24 15:43:22->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:10  da_cycle:-9999   realization:37 concurrent:1)
+06/26/24 15:43:22->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:10  da_cycle:-9999   realization:11 concurrent:1)
+06/26/24 15:43:22->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:10  da_cycle:-9999   realization:28 concurrent:1)
+06/26/24 15:43:22->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:10  da_cycle:-9999   realization:0 concurrent:1)
+06/26/24 15:43:22->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:10  da_cycle:-9999   realization:1 concurrent:1)
+06/26/24 15:43:22->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:10  da_cycle:-9999   realization:2 concurrent:1)
+06/26/24 15:43:22->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:10  da_cycle:-9999   realization:3 concurrent:1)
+06/26/24 15:43:22->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:10  da_cycle:-9999   realization:4 concurrent:1)
+06/26/24 15:43:22->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:10  da_cycle:-9999   realization:5 concurrent:1)
+06/26/24 15:43:22->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:10  da_cycle:-9999   realization:7 concurrent:1)
+06/26/24 15:43:22->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:10  da_cycle:-9999   realization:8 concurrent:1)
+06/26/24 15:43:22->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:10  da_cycle:-9999   realization:9 concurrent:1)
+06/26/24 15:43:22->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:10  da_cycle:-9999   realization:10 concurrent:1)
+06/26/24 15:43:22->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:10  da_cycle:-9999   realization:12 concurrent:1)
+06/26/24 15:43:22->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:10  da_cycle:-9999   realization:13 concurrent:1)
+06/26/24 15:43:22->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:10  da_cycle:-9999   realization:14 concurrent:1)
+06/26/24 15:43:22->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:10  da_cycle:-9999   realization:15 concurrent:1)
+06/26/24 15:43:22->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:10  da_cycle:-9999   realization:16 concurrent:1)
+06/26/24 15:43:22->Sending run_id:18 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 group_id:10  da_cycle:-9999   realization:17 concurrent:1)
+06/26/24 15:43:22->Sending run_id:19 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 group_id:10  da_cycle:-9999   realization:18 concurrent:1)
+06/26/24 15:43:25-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0533  avg_run_time:0.0533 group_id:10  da_cycle:-9999   realization:28  worker_time:0.0532667 concurrent:1
+06/26/24 15:43:25->run 2 processed
+06/26/24 15:43:25->Sending run_id:20 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:10  da_cycle:-9999   realization:19 concurrent:1)
+06/26/24 15:43:25-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0551  avg_run_time:0.0542 group_id:10  da_cycle:-9999   realization:15  worker_time:0.0550667 concurrent:1
+06/26/24 15:43:25->run 16 processed
+06/26/24 15:43:25-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0551167  avg_run_time:0.0545056 group_id:10  da_cycle:-9999   realization:13  worker_time:0.0550667 concurrent:1
+06/26/24 15:43:25->run 14 processed
+06/26/24 15:43:25->Sending run_id:21 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:10  da_cycle:-9999   realization:20 concurrent:1)
+06/26/24 15:43:25->Sending run_id:22 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:10  da_cycle:-9999   realization:21 concurrent:1)
+06/26/24 15:43:26-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0588  avg_run_time:0.0555792 group_id:10  da_cycle:-9999   realization:3  worker_time:0.0587667 concurrent:1
+06/26/24 15:43:26->run 6 processed
+06/26/24 15:43:26-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0588167  avg_run_time:0.0562267 group_id:10  da_cycle:-9999   realization:37  worker_time:0.0587833 concurrent:1
+06/26/24 15:43:26->run 0 processed
+06/26/24 15:43:26-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0588167  avg_run_time:0.0566583 group_id:10  da_cycle:-9999   realization:11  worker_time:0.0587667 concurrent:1
+06/26/24 15:43:26->run 1 processed
+06/26/24 15:43:26-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0588167  avg_run_time:0.0569667 group_id:10  da_cycle:-9999   realization:0  worker_time:0.0587667 concurrent:1
+06/26/24 15:43:26->run 3 processed
+06/26/24 15:43:26-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0588333  avg_run_time:0.0572 group_id:10  da_cycle:-9999   realization:1  worker_time:0.05875 concurrent:1
+06/26/24 15:43:26->run 4 processed
+06/26/24 15:43:26-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0588333  avg_run_time:0.0573815 group_id:10  da_cycle:-9999   realization:2  worker_time:0.05875 concurrent:1
+06/26/24 15:43:26->run 5 processed
+06/26/24 15:43:26-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0588167  avg_run_time:0.057525 group_id:10  da_cycle:-9999   realization:12  worker_time:0.05875 concurrent:1
+06/26/24 15:43:26->run 13 processed
+06/26/24 15:43:26-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.0588167  avg_run_time:0.0576424 group_id:10  da_cycle:-9999   realization:16  worker_time:0.05875 concurrent:1
+06/26/24 15:43:26->run 17 processed
+06/26/24 15:43:26-> run_id:19 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20  run_time:0.0588167  avg_run_time:0.0577403 group_id:10  da_cycle:-9999   realization:18  worker_time:0.05875 concurrent:1
+06/26/24 15:43:26->run 19 processed
+06/26/24 15:43:26->Sending run_id:23 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:10  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:26->Sending run_id:24 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:10  da_cycle:-9999   realization:23 concurrent:1)
+06/26/24 15:43:26->Sending run_id:25 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:10  da_cycle:-9999   realization:24 concurrent:1)
+06/26/24 15:43:26->Sending run_id:26 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:10  da_cycle:-9999   realization:25 concurrent:1)
+06/26/24 15:43:26->Sending run_id:27 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:10  da_cycle:-9999   realization:26 concurrent:1)
+06/26/24 15:43:26->Sending run_id:28 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:10  da_cycle:-9999   realization:27 concurrent:1)
+06/26/24 15:43:26->Sending run_id:29 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:10  da_cycle:-9999   realization:29 concurrent:1)
+06/26/24 15:43:26->Sending run_id:30 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:10  da_cycle:-9999   realization:30 concurrent:1)
+06/26/24 15:43:26->Sending run_id:31 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20 group_id:10  da_cycle:-9999   realization:31 concurrent:1)
+06/26/24 15:43:26-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.05905  avg_run_time:0.057841 group_id:10  da_cycle:-9999   realization:14  worker_time:0.0589833 concurrent:1
+06/26/24 15:43:26->run 15 processed
+06/26/24 15:43:26->Sending run_id:32 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:10  da_cycle:-9999   realization:32 concurrent:1)
+06/26/24 15:43:26-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0606  avg_run_time:0.0580381 group_id:10  da_cycle:-9999   realization:9  worker_time:0.0605667 concurrent:1
+06/26/24 15:43:26->run 11 processed
+06/26/24 15:43:26-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0606167  avg_run_time:0.05821 group_id:10  da_cycle:-9999   realization:7  worker_time:0.06055 concurrent:1
+06/26/24 15:43:26->run 9 processed
+06/26/24 15:43:26-> run_id:18 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19  run_time:0.0606  avg_run_time:0.0583594 group_id:10  da_cycle:-9999   realization:17  worker_time:0.0605667 concurrent:1
+06/26/24 15:43:26->run 18 processed
+06/26/24 15:43:26->Sending run_id:33 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:10  da_cycle:-9999   realization:33 concurrent:1)
+06/26/24 15:43:26->Sending run_id:34 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:10  da_cycle:-9999   realization:34 concurrent:1)
+06/26/24 15:43:26->Sending run_id:35 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19 group_id:10  da_cycle:-9999   realization:35 concurrent:1)
+06/26/24 15:43:26-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0643  avg_run_time:0.0587088 group_id:10  da_cycle:-9999   realization:8  worker_time:0.06425 concurrent:1
+06/26/24 15:43:26->run 10 processed
+06/26/24 15:43:26-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0643167  avg_run_time:0.0590204 group_id:10  da_cycle:-9999   realization:4  worker_time:0.0642667 concurrent:1
+06/26/24 15:43:26->run 7 processed
+06/26/24 15:43:26-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0643167  avg_run_time:0.0592991 group_id:10  da_cycle:-9999   realization:5  worker_time:0.0642667 concurrent:1
+06/26/24 15:43:26->run 8 processed
+06/26/24 15:43:26-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0643167  avg_run_time:0.05955 group_id:10  da_cycle:-9999   realization:10  worker_time:0.06425 concurrent:1
+06/26/24 15:43:26->run 12 processed
+06/26/24 15:43:26->Sending run_id:36 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:10  da_cycle:-9999   realization:36 concurrent:1)
+06/26/24 15:43:26->Sending run_id:37 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:10  da_cycle:-9999   realization:38 concurrent:1)
+06/26/24 15:43:28-> run_id:20 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.0478833  avg_run_time:0.0592792 group_id:10  da_cycle:-9999   realization:19  worker_time:0.04065 concurrent:1
+06/26/24 15:43:28->run 20 processed
+06/26/24 15:43:28-> run_id:21 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0514  avg_run_time:0.0590942 group_id:10  da_cycle:-9999   realization:20  worker_time:0.0458667 concurrent:1
+06/26/24 15:43:28->run 21 processed
+06/26/24 15:43:28-> run_id:22 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0514167  avg_run_time:0.0589092 group_id:10  da_cycle:-9999   realization:21  worker_time:0.04585 concurrent:1
+06/26/24 15:43:28->run 22 processed
+06/26/24 15:43:29-> run_id:28 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0542333  avg_run_time:0.0586792 group_id:10  da_cycle:-9999   realization:27  worker_time:0.04785 concurrent:1
+06/26/24 15:43:29->run 28 processed
+06/26/24 15:43:29-> run_id:23 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.0542333  avg_run_time:0.0584508 group_id:10  da_cycle:-9999   realization:22  worker_time:0.0478333 concurrent:1
+06/26/24 15:43:29->run 23 processed
+06/26/24 15:43:29-> run_id:29 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0542333  avg_run_time:0.0582217 group_id:10  da_cycle:-9999   realization:29  worker_time:0.0478333 concurrent:1
+06/26/24 15:43:29->run 29 processed
+06/26/24 15:43:29-> run_id:30 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.0542333  avg_run_time:0.0579925 group_id:10  da_cycle:-9999   realization:30  worker_time:0.0478333 concurrent:1
+06/26/24 15:43:29->run 30 processed
+06/26/24 15:43:29-> run_id:34 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0551333  avg_run_time:0.0577183 group_id:10  da_cycle:-9999   realization:34  worker_time:0.0478 concurrent:1
+06/26/24 15:43:29->run 34 processed
+06/26/24 15:43:29-> run_id:35 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_19  run_time:0.0551333  avg_run_time:0.057445 group_id:10  da_cycle:-9999   realization:35  worker_time:0.0478167 concurrent:1
+06/26/24 15:43:29->run 35 processed
+06/26/24 15:43:29-> run_id:27 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.05695  avg_run_time:0.0573508 group_id:10  da_cycle:-9999   realization:26  worker_time:0.0532667 concurrent:1
+06/26/24 15:43:29->run 27 processed
+06/26/24 15:43:29-> run_id:24 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.05695  avg_run_time:0.0572575 group_id:10  da_cycle:-9999   realization:23  worker_time:0.0532667 concurrent:1
+06/26/24 15:43:29->run 24 processed
+06/26/24 15:43:29-> run_id:25 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.05695  avg_run_time:0.0571642 group_id:10  da_cycle:-9999   realization:24  worker_time:0.05325 concurrent:1
+06/26/24 15:43:29->run 25 processed
+06/26/24 15:43:29-> run_id:26 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0569667  avg_run_time:0.0570717 group_id:10  da_cycle:-9999   realization:25  worker_time:0.0532667 concurrent:1
+06/26/24 15:43:29->run 26 processed
+06/26/24 15:43:29-> run_id:37 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0569667  avg_run_time:0.0567042 group_id:10  da_cycle:-9999   realization:38  worker_time:0.0477333 concurrent:1
+06/26/24 15:43:29->run 37 processed
+06/26/24 15:43:29-> run_id:36 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0569667  avg_run_time:0.0563375 group_id:10  da_cycle:-9999   realization:36  worker_time:0.04775 concurrent:1
+06/26/24 15:43:29->run 36 processed
+06/26/24 15:43:29-> run_id:31 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_20  run_time:0.05695  avg_run_time:0.0562442 group_id:10  da_cycle:-9999   realization:31  worker_time:0.0532667 concurrent:1
+06/26/24 15:43:29->run 31 processed
+06/26/24 15:43:29-> run_id:32 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0570667  avg_run_time:0.056145 group_id:10  da_cycle:-9999   realization:32  worker_time:0.0532167 concurrent:1
+06/26/24 15:43:29->run 32 processed
+06/26/24 15:43:29-> run_id:33 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.05785  avg_run_time:0.0560075 group_id:10  da_cycle:-9999   realization:33  worker_time:0.0532333 concurrent:1
+06/26/24 15:43:29->run 33 processed
+
+---------------------
+   38 runs complete :  0 runs failed
+   0.056 avg run time (min) : 0.166 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:43:32->Panther idle ping thread resumed.
+06/26/24 15:43:32->Panther idle ping thread paused prior to scheduling runs.
+running model 18 times
+06/26/24 15:43:32->    20 agents ready
+
+06/26/24 15:43:32->Sending run_id:0 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:1 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:32->Sending run_id:2 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:3 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:32->Sending run_id:4 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:5 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:32->Sending run_id:6 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:7 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:32->Sending run_id:8 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:9 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:32->Sending run_id:10 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:11 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:32->Sending run_id:12 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:13 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:32->Sending run_id:14 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:15 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:32->Sending run_id:16 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17 group_id:11  da_cycle:-9999   realization:BASE concurrent:1)
+06/26/24 15:43:32->Sending run_id:17 to:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18 group_id:11  da_cycle:-9999   realization:22 concurrent:1)
+06/26/24 15:43:35-> run_id:16 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_17  run_time:0.0493167  avg_run_time:0.0493167 group_id:11  da_cycle:-9999   realization:base  worker_time:0.0492833 concurrent:1
+06/26/24 15:43:35->run 16 processed
+06/26/24 15:43:35-> run_id:6 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_7  run_time:0.05295  avg_run_time:0.0511333 group_id:11  da_cycle:-9999   realization:base  worker_time:0.05285 concurrent:1
+06/26/24 15:43:35->run 6 processed
+06/26/24 15:43:35-> run_id:0 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_1  run_time:0.0529667  avg_run_time:0.0517444 group_id:11  da_cycle:-9999   realization:base  worker_time:0.0529 concurrent:1
+06/26/24 15:43:35->run 0 processed
+06/26/24 15:43:35-> run_id:1 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_2  run_time:0.0529833  avg_run_time:0.0520542 group_id:11  da_cycle:-9999   realization:22  worker_time:0.0528667 concurrent:1
+06/26/24 15:43:35->run 1 processed
+06/26/24 15:43:35-> run_id:7 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_8  run_time:0.0529667  avg_run_time:0.0522367 group_id:11  da_cycle:-9999   realization:22  worker_time:0.0528833 concurrent:1
+06/26/24 15:43:35->run 7 processed
+06/26/24 15:43:35-> run_id:4 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_5  run_time:0.0529833  avg_run_time:0.0523611 group_id:11  da_cycle:-9999   realization:base  worker_time:0.0528833 concurrent:1
+06/26/24 15:43:35->run 4 processed
+06/26/24 15:43:35-> run_id:17 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_18  run_time:0.05295  avg_run_time:0.0524452 group_id:11  da_cycle:-9999   realization:22  worker_time:0.0528667 concurrent:1
+06/26/24 15:43:35->run 17 processed
+06/26/24 15:43:35-> run_id:12 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_13  run_time:0.0547167  avg_run_time:0.0527292 group_id:11  da_cycle:-9999   realization:base  worker_time:0.0546667 concurrent:1
+06/26/24 15:43:35->run 12 processed
+06/26/24 15:43:35-> run_id:2 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_3  run_time:0.05475  avg_run_time:0.0529537 group_id:11  da_cycle:-9999   realization:base  worker_time:0.0547 concurrent:1
+06/26/24 15:43:35->run 2 processed
+06/26/24 15:43:35-> run_id:8 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_9  run_time:0.0547333  avg_run_time:0.0531317 group_id:11  da_cycle:-9999   realization:base  worker_time:0.0546833 concurrent:1
+06/26/24 15:43:35->run 8 processed
+06/26/24 15:43:35-> run_id:15 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_16  run_time:0.0547167  avg_run_time:0.0532758 group_id:11  da_cycle:-9999   realization:22  worker_time:0.0546667 concurrent:1
+06/26/24 15:43:35->run 15 processed
+06/26/24 15:43:36-> run_id:9 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_10  run_time:0.0583167  avg_run_time:0.0536958 group_id:11  da_cycle:-9999   realization:22  worker_time:0.0582833 concurrent:1
+06/26/24 15:43:36->run 9 processed
+06/26/24 15:43:36-> run_id:10 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_11  run_time:0.0601  avg_run_time:0.0541885 group_id:11  da_cycle:-9999   realization:base  worker_time:0.06005 concurrent:1
+06/26/24 15:43:36->run 10 processed
+06/26/24 15:43:36-> run_id:3 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_4  run_time:0.0601167  avg_run_time:0.0546119 group_id:11  da_cycle:-9999   realization:22  worker_time:0.0600833 concurrent:1
+06/26/24 15:43:36->run 3 processed
+06/26/24 15:43:36-> run_id:5 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_6  run_time:0.0601167  avg_run_time:0.0549789 group_id:11  da_cycle:-9999   realization:22  worker_time:0.0600667 concurrent:1
+06/26/24 15:43:36->run 5 processed
+06/26/24 15:43:36-> run_id:11 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_12  run_time:0.0601  avg_run_time:0.055299 group_id:11  da_cycle:-9999   realization:22  worker_time:0.06005 concurrent:1
+06/26/24 15:43:36->run 11 processed
+06/26/24 15:43:36-> run_id:13 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_14  run_time:0.0601  avg_run_time:0.0555814 group_id:11  da_cycle:-9999   realization:22  worker_time:0.0600333 concurrent:1
+06/26/24 15:43:36->run 13 processed
+06/26/24 15:43:36-> run_id:14 received from:1ZGH2T3.isd.ad.flinders.edu.au$c:\Workspace\opaz0002\PhD\0_Learning\PEST-2day-Adelaide\exercises\jnotebook\worker_15  run_time:0.0601  avg_run_time:0.0558324 group_id:11  da_cycle:-9999   realization:base  worker_time:0.06005 concurrent:1
+06/26/24 15:43:36->run 14 processed
+
+---------------------
+   18 runs complete :  0 runs failed
+   0.0558 avg run time (min) : 0.11 run mgr time (min)
+   20 agents connected
+
+
+
+06/26/24 15:43:39->Panther idle ping thread resumed.
+06/26/24 15:43:39->Stopped idle ping thread, as Panther manager is shutting down.

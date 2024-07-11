@@ -1,0 +1,2 @@
+group,mean_change,std_change,num_at_near_lbound,percent_at_near_lbound,num_at_near_ubound,percent_at_near_ubound,initial_cv,current_cv
+k_ppt,2647.81,49.4078,0,00,0,48.6676,2.5344
