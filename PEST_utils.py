@@ -7,6 +7,7 @@ import multiprocessing as mp
 import shutil
 import time
 import flopy
+import stat
 
 def zone_based_par(model_ws,plist,sim,zone_array,nlay=None):
 
@@ -1099,6 +1100,7 @@ def pstpardata(model_ws, or_pst,pardata, new_pst,pargroups_opt=True):
                         f.write(str(data[5])+" "*(14-len(str(data[5]))))
                         f.write(str(data[6])+" "*(14-len(str(data[6]))))
                         f.write(str(data[7])+" "*(14-len(str(data[7]))))
+                        f.write(str(data[8])+" "*(14-len(str(data[7]))))
                         f.write('\n')
                 if match==0:
                     f.write(lines[i])
@@ -1522,7 +1524,7 @@ def pstregwt(model_ws, or_pst,reggroups, new_pst,regcontinue=False):
 
     return new_pst
 
-def start_workers(pstfile,worker_dir,num_workers=None,worker_root="..",exec='PEST_HP',cleanup=True):
+def start_workers(pstfile,worker_dir,num_workers=None,worker_root="..",exec='PEST_HP',cleanup=True,restart=False):
     """
     This is an extremely simplified replicated version of the Pyemu start_workers function
     Included in os_utils.py
@@ -1552,8 +1554,10 @@ def start_workers(pstfile,worker_dir,num_workers=None,worker_root="..",exec='PES
     worker_dir = os.getcwd()
 
     port = int(4004)
-
-    args = [exec, pstfile, "/h", ":{0}".format(port)]
+    if restart:
+        args = [exec, pstfile,"/s", "/h", ":{0}".format(port)]
+    else:
+        args = [exec, pstfile, "/h", ":{0}".format(port)]
 
     stdout = open(os.devnull, "w")
     master_p = sp.Popen(args, stdout=stdout)
@@ -1564,9 +1568,9 @@ def start_workers(pstfile,worker_dir,num_workers=None,worker_root="..",exec='PES
     procs = []
     worker_dirs = []
     for i in range(num_workers):
-        new_worker_dir = os.path.join(worker_root, "worker_{0}".format(i))
+        new_worker_dir = os.path.join(worker_root, "worker_{0}".format(i+1))
         if os.path.exists(new_worker_dir):
-            shutil.rmtree(new_worker_dir)
+            shutil.rmtree(new_worker_dir,onerror=lambda func, path, _: (os.chmod(path, stat.S_IWRITE), func(path)))
         shutil.copytree('.', new_worker_dir)
 
         args = [exec, pstfile, "/h", tcp_arg]
@@ -1586,14 +1590,14 @@ def start_workers(pstfile,worker_dir,num_workers=None,worker_root="..",exec='PES
         p.kill()
     for p in procs:
         p.wait()
+
     if cleanup:
         cleanit = 0
         while len(worker_dirs) > 0 and cleanit < 100000:  # arbitrary 100000 limit
             cleanit = cleanit + 1
             for d in worker_dirs:
-                shutil.rmtree(d)
+                shutil.rmtree(d,onerror=lambda func, path, _: (os.chmod(path, stat.S_IWRITE), func(path)))
                 worker_dirs.pop(worker_dirs.index(d))  # if successfully removed
-
     os.chdir(base_dir)   
 
 def pest_hp_settings(model_ws,or_pst,settings, new_pst):
